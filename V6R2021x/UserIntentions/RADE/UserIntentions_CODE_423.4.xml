@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserIntentions mediaName="CODE\win_b64\O3D_SDV.media" mediaVersion="423.4">
+  <SetVariable item="NoServerSetup" name="TCKSetupType" value="true"/>
+  <SetVariable name="DSYWelcomePanel"/>
+  <SetVariable name="TARGET_PATH" value="C:\Program Files\Dassault Systemes\B423_RADE"/>
+  <SetVariable name="FinishPanel"/>
+</UserIntentions>

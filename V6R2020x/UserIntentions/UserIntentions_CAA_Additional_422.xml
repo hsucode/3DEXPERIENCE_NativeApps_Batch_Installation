@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserIntentions mediaName="CAA\win_b64\NativeApps_3DEXP.media" mediaVersion="422">
+  <SetVariable name="DSYWelcomePanel"/>
+  <SetVariable name="TARGET_PATH" value="C:\Program Files\Dassault Systemes\B422"/>
+  <!--XAR - Marketing Experience Artist-->
+  <SetVariable item="CAA\win_b64\XAR.prd" name="SelectProduct" value="true"/>
+  <!--XCA - Marketing Content Artist-->
+  <SetVariable item="CAA\win_b64\XCA.prd" name="SelectProduct" value="true"/>
+  <!--RDS - Marketing Media Producer-->
+  <SetVariable item="CAA\win_b64\RDS.prd" name="SelectProduct" value="true"/>
+  <!--CHA - Marketing Content Animator-->
+  <SetVariable item="CAA\win_b64\CHA.prd" name="SelectProduct" value="true"/>
+  <!--VRS - Marketing Experience Scripter-->
+  <SetVariable item="CAA\win_b64\VRS.prd" name="SelectProduct" value="true"/>
+  <!--EXV - Marketing Experience Reviewer-->
+  <SetVariable item="CAA\win_b64\EXV.prd" name="SelectProduct" value="true"/>
+  <!--PPO - Marketing Model Processor-->
+  <SetVariable item="CAA\win_b64\PPO.prd" name="SelectProduct" value="true"/>
+  <!--BLG - Therapeutics Efficacy Modeler-->
+  <SetVariable item="CAA\win_b64\BLG.prd" name="SelectProduct" value="true"/>
+  <!--BXP - Therapeutics Knowledge Scientist-->
+  <SetVariable item="CAA\win_b64\BXP.prd" name="SelectProduct" value="true"/>
+  <!--ACG - Accommodation Designer-->
+  <SetVariable item="CAA\win_b64\ACG.prd" name="SelectProduct" value="true"/>
+  <!--ADL - Architectural Detail Designer-->
+  <SetVariable item="CAA\win_b64\ADL.prd" name="SelectProduct" value="true"/>
+  <!--BDG - Concept Building Designer-->
+  <SetVariable item="CAA\win_b64\BDG.prd" name="SelectProduct" value="true"/>
+  <!--BIM - Building and Civil Coordinator-->
+  <SetVariable item="CAA\win_b64\BIM.prd" name="SelectProduct" value="true"/>
+  <!--BWE - Body In White Designer-->
+  <SetVariable item="CAA\win_b64\BWE.prd" name="SelectProduct" value="true"/>
+  <!--CBA - Composites Braiding Designer-->
+  <SetVariable item="CAA\win_b64\CBA.prd" name="SelectProduct" value="true"/>
+  <!--CBF - Collaborative Rigid Flex Circuit Board Designer-->
+  <SetVariable item="CAA\win_b64\CBF.prd" name="SelectProduct" value="true"/>
+  <!--CBR - Collaborative Circuit Board Designer-->
+  <SetVariable item="CAA\win_b64\CBR.prd" name="SelectProduct" value="true"/>
+  <!--CCS - Creative Designer-->
+  <SetVariable item="CAA\win_b64\CCS.prd" name="SelectProduct" value="true"/>
+  <!--CDD - Product Industrial Designer-->
+  <SetVariable item="CAA\win_b64\CDD.prd" name="SelectProduct" value="true"/>
+  <!--CDE - Composites Designer-->
+  <SetVariable item="CAA\win_b64\CDE.prd" name="SelectProduct" value="true"/>
+  <!--CDL - Composites Designer & Manufacturer-->
+  <SetVariable item="CAA\win_b64\CDL.prd" name="SelectProduct" value="true"/>
+  <!--CDT - Transportation Designer-->
+  <SetVariable item="CAA\win_b64\CDT.prd" name="SelectProduct" value="true"/>
+  <!--CFT - Converters for Construction-->
+  <SetVariable item="CAA\win_b64\CFT.prd" name="SelectProduct" value="true"/>
+  <!--CFY - Converters for Design and Styling-->
+  <SetVariable item="CAA\win_b64\CFY.prd" name="SelectProduct" value="true"/>
+  <!--CIV - Civil Engineer-->
+  <SetVariable item="CAA\win_b64\CIV.prd" name="SelectProduct" value="true"/>
+  <!--CLJ - Composites Laser Projection Operator-->
+  <SetVariable item="CAA\win_b64\CLJ.prd" name="SelectProduct" value="true"/>
+  <!--CMF - Composites Manufacturer-->
+  <SetVariable item="CAA\win_b64\CMF.prd" name="SelectProduct" value="true"/>
+  <!--CSX - Visual Experience Designer-->
+  <SetVariable item="CAA\win_b64\CSX.prd" name="SelectProduct" value="true"/>
+  <!--CTN - Structural Package Designer-->
+  <SetVariable item="CAA\win_b64\CTN.prd" name="SelectProduct" value="true"/>
+  <!--DOF - Function Driven Refinement Designer-->
+  <SetVariable item="CAA\win_b64\DOF.prd" name="SelectProduct" value="true"/>
+  <!--DWP - Design Review & Preparation-->
+  <SetVariable item="CAA\win_b64\DWP.prd" name="SelectProduct" value="true"/>
+  <!--DFR - Stamping Die Designer-->
+  <SetVariable item="CAA\win_b64\DFR.prd" name="SelectProduct" value="true"/>
+  <!--ELD - Electrical Designer-->
+  <SetVariable item="CAA\win_b64\ELD.prd" name="SelectProduct" value="true"/>
+  <!--ELG - Electrical 3D Systems Designer-->
+  <SetVariable item="CAA\win_b64\ELG.prd" name="SelectProduct" value="true"/>
+  <!--EMP - Electrical Harness Manufacturing Engineer-->
+  <SetVariable item="CAA\win_b64\EMP.prd" name="SelectProduct" value="true"/>
+  <!--FDE - Fasteners Designer-->
+  <SetVariable item="CAA\win_b64\FDE.prd" name="SelectProduct" value="true"/>
+  <!--FFS - Aesthetical Shape Modeler-->
+  <SetVariable item="CAA\win_b64\FFS.prd" name="SelectProduct" value="true"/>
+  <!--FFX - Class A Expert-->
+  <SetVariable item="CAA\win_b64\FFX.prd" name="SelectProduct" value="true"/>
+  <!--FLG - Fluid 3D Systems Designer-->
+  <SetVariable item="CAA\win_b64\FLG.prd" name="SelectProduct" value="true"/>
+  <!--FPM - Interior Designer-->
+  <SetVariable item="CAA\win_b64\FPM.prd" name="SelectProduct" value="true"/>
+  <!--FPP - Plastic Mechanical Designer-->
+  <SetVariable item="CAA\win_b64\FPP.prd" name="SelectProduct" value="true"/>
+  <!--GDE - Function Driven Generative Designer-->
+  <SetVariable item="CAA\win_b64\GDE.prd" name="SelectProduct" value="true"/>
+  <!--HXD - Human Experience Designer-->
+  <SetVariable item="CAA\win_b64\HXD.prd" name="SelectProduct" value="true"/>
+  <!--IAD - Aero Surface Modeler-->
+  <SetVariable item="CAA\win_b64\IAD.prd" name="SelectProduct" value="true"/>
+  <!--ICD - Class A Modeler-->
+  <SetVariable item="CAA\win_b64\ICD.prd" name="SelectProduct" value="true"/>
+  <!--ICE - Immersive Collaboration Experience-->
+  <SetVariable item="CAA\win_b64\ICE.prd" name="SelectProduct" value="true"/>
+  <!--IHD - Immersive Visual Experience-->
+  <SetVariable item="CAA\win_b64\IHD.prd" name="SelectProduct" value="true"/>
+  <!--KAC - Design Apps Developer-->
+  <SetVariable item="CAA\win_b64\KAC.prd" name="SelectProduct" value="true"/>
+  <!--KAX - Design Apps User-->
+  <SetVariable item="CAA\win_b64\KAX.prd" name="SelectProduct" value="true"/>
+  <!--KDI - Template Designer-->
+  <SetVariable item="CAA\win_b64\KDI.prd" name="SelectProduct" value="true"/>
+  <!--KHC - Quality Rules Designer-->
+  <SetVariable item="CAA\win_b64\KHC.prd" name="SelectProduct" value="true"/>
+  <!--KPO - Product Optimization Designer-->
+  <SetVariable item="CAA\win_b64\KPO.prd" name="SelectProduct" value="true"/>
+  <!--M3C - 3DMaster Conceptual Designer-->
+  <SetVariable item="CAA\win_b64\M3C.prd" name="SelectProduct" value="true"/>
+  <!--M3D - 3DMaster Designer-->
+  <SetVariable item="CAA\win_b64\M3D.prd" name="SelectProduct" value="true"/>
+  <!--M3H - Multi-Discipline 3DMaster Mechanical Designer-->
+  <SetVariable item="CAA\win_b64\M3H.prd" name="SelectProduct" value="true"/>
+  <!--MDD - Mechanical Part Designer-->
+  <SetVariable item="CAA\win_b64\MDD.prd" name="SelectProduct" value="true"/>
+  <!--MDG - Mechanical Designer-->
+  <SetVariable item="CAA\win_b64\MDG.prd" name="SelectProduct" value="true"/>
+  <!--MDH - Multi-Discipline Mechanical Designer-->
+  <SetVariable item="CAA\win_b64\MDH.prd" name="SelectProduct" value="true"/>
+  <!--MEH - Multi-Discipline Mechanical & Shape Designer-->
+  <SetVariable item="CAA\win_b64\MEH.prd" name="SelectProduct" value="true"/>
+  <!--MDT - Mechanical Tooling Designer-->
+  <SetVariable item="CAA\win_b64\MDT.prd" name="SelectProduct" value="true"/>
+  <!--MEF - Powertrain & Chassis Designer-->
+  <SetVariable item="CAA\win_b64\MEF.prd" name="SelectProduct" value="true"/>
+  <!--MES - Mechanical & Shape Designer-->
+  <SetVariable item="CAA\win_b64\MES.prd" name="SelectProduct" value="true"/>
+  <!--MGE - 3D Designer-->
+  <SetVariable item="CAA\win_b64\MGE.prd" name="SelectProduct" value="true"/>
+  <!--MKS - Mechanism Simulation Designer-->
+  <SetVariable item="CAA\win_b64\MKS.prd" name="SelectProduct" value="true"/>
+  <!--MLT - 3D MEP Designer-->
+  <SetVariable item="CAA\win_b64\MLT.prd" name="SelectProduct" value="true"/>
+  <!--MOL - Mold Designer-->
+  <SetVariable item="CAA\win_b64\MOL.prd" name="SelectProduct" value="true"/>
+  <!--MQD - Machine & Equipment Designer-->
+  <SetVariable item="CAA\win_b64\MQD.prd" name="SelectProduct" value="true"/>
+  <!--MQS - Shaped Machine & Equipment Designer-->
+  <SetVariable item="CAA\win_b64\MQS.prd" name="SelectProduct" value="true"/>
+  <!--MTG - Mold & Tooling Designer-->
+  <SetVariable item="CAA\win_b64\MTG.prd" name="SelectProduct" value="true"/>
+  <!--PED - Product Enclosure Designer-->
+  <SetVariable item="CAA\win_b64\PED.prd" name="SelectProduct" value="true"/>
+  <!--PTB - Tubing Designer-->
+  <SetVariable item="CAA\win_b64\PTB.prd" name="SelectProduct" value="true"/>
+  <!--QRU - Quality Rules Collection-->
+  <SetVariable item="CAA\win_b64\QRU.prd" name="SelectProduct" value="true"/>
+  <!--RPE - Virtual & Physical Prototyper-->
+  <SetVariable item="CAA\win_b64\RPE.prd" name="SelectProduct" value="true"/>
+  <!--RWD - Cabletray 3D Systems Designer-->
+  <SetVariable item="CAA\win_b64\RWD.prd" name="SelectProduct" value="true"/>
+  <!--SAO - Space Allocation Architect-->
+  <SetVariable item="CAA\win_b64\SAO.prd" name="SelectProduct" value="true"/>
+  <!--SAT - Systems Architecture Designer-->
+  <SetVariable item="CAA\win_b64\SAT.prd" name="SelectProduct" value="true"/>
+  <!--SDG - Steel Structure Designer-->
+  <SetVariable item="CAA\win_b64\SDG.prd" name="SelectProduct" value="true"/>
+  <!--SEL - Steel and Equipment Layout Designer-->
+  <SetVariable item="CAA\win_b64\SEL.prd" name="SelectProduct" value="true"/>
+  <!--SDY - Dynamic Systems Designer-->
+  <SetVariable item="CAA\win_b64\SDY.prd" name="SelectProduct" value="true"/>
+  <!--SEF - Systems Schematic Designer-->
+  <SetVariable item="CAA\win_b64\SEF.prd" name="SelectProduct" value="true"/>
+  <!--SFG - Preliminary Steel Structure Designer-->
+  <SetVariable item="CAA\win_b64\SFG.prd" name="SelectProduct" value="true"/>
+  <!--STR - Structure Designer-->
+  <SetVariable item="CAA\win_b64\STR.prd" name="SelectProduct" value="true"/>
+  <!--STV - Building Structures Designer-->
+  <SetVariable item="CAA\win_b64\STV.prd" name="SelectProduct" value="true"/>
+  <!--SMH - Hydroformed SheetMetal Designer-->
+  <SetVariable item="CAA\win_b64\SMH.prd" name="SelectProduct" value="true"/>
+  <!--SMQ - Mechatronic Systems Designer-->
+  <SetVariable item="CAA\win_b64\SMQ.prd" name="SelectProduct" value="true"/>
+  <!--SMW - SheetMetal Designer-->
+  <SetVariable item="CAA\win_b64\SMW.prd" name="SelectProduct" value="true"/>
+  <!--SUA - Shape Designer-->
+  <SetVariable item="CAA\win_b64\SUA.prd" name="SelectProduct" value="true"/>
+  <!--SUF - Shape Morphing Modeler-->
+  <SetVariable item="CAA\win_b64\SUF.prd" name="SelectProduct" value="true"/>
+  <!--SVK - Systems Multi-Views Architect-->
+  <SetVariable item="CAA\win_b64\SVK.prd" name="SelectProduct" value="true"/>
+  <!--VSO - Reverse Shape Optimizer-->
+  <SetVariable item="CAA\win_b64\VSO.prd" name="SelectProduct" value="true"/>
+  <!--PWZ - Systems Powertrain Library-->
+  <SetVariable item="CAA\win_b64\PWZ.prd" name="SelectProduct" value="true"/>
+  <!--FBZ - Systems Flexible Bodies Library-->
+  <SetVariable item="CAA\win_b64\FBZ.prd" name="SelectProduct" value="true"/>
+  <!--SEZ - Systems Smart Electric Drives Library-->
+  <SetVariable item="CAA\win_b64\SEZ.prd" name="SelectProduct" value="true"/>
+  <!--DOY - Systems Behavior Optimization-->
+  <SetVariable item="CAA\win_b64\DOY.prd" name="SelectProduct" value="true"/>
+  <!--XSK - Systems Simulink Export-->
+  <SetVariable item="CAA\win_b64\XSK.prd" name="SelectProduct" value="true"/>
+  <!--XRE - Systems Real Time Execution Export-->
+  <SetVariable item="CAA\win_b64\XRE.prd" name="SelectProduct" value="true"/>
+  <!--XFM - Systems FMU Export-->
+  <SetVariable item="CAA\win_b64\XFM.prd" name="SelectProduct" value="true"/>
+  <!--XCS - Systems C Code Export-->
+  <SetVariable item="CAA\win_b64\XCS.prd" name="SelectProduct" value="true"/>
+  <!--FDZ - Systems Flight Dynamics Library-->
+  <SetVariable item="CAA\win_b64\FDZ.prd" name="SelectProduct" value="true"/>
+  <!--HCZ - Systems Human Comfort Library-->
+  <SetVariable item="CAA\win_b64\HCZ.prd" name="SelectProduct" value="true"/>
+  <!--BTZ - Systems Battery Library-->
+  <SetVariable item="CAA\win_b64\BTZ.prd" name="SelectProduct" value="true"/>
+  <!--EIZ - Systems VeSyMA Engines Library-->
+  <SetVariable item="CAA\win_b64\EIZ.prd" name="SelectProduct" value="true"/>
+  <!--ETZ - Systems Electrified Power Train Library-->
+  <SetVariable item="CAA\win_b64\ETZ.prd" name="SelectProduct" value="true"/>
+  <!--HVZ - Systems HVAC Library-->
+  <SetVariable item="CAA\win_b64\HVZ.prd" name="SelectProduct" value="true"/>
+  <!--CLZ - Systems Cooling Library-->
+  <SetVariable item="CAA\win_b64\CLZ.prd" name="SelectProduct" value="true"/>
+  <!--WPZ - Systems Wind Power Library-->
+  <SetVariable item="CAA\win_b64\WPZ.prd" name="SelectProduct" value="true"/>
+  <!--DCZ - Systems Brushless DC Drives Library-->
+  <SetVariable item="CAA\win_b64\DCZ.prd" name="SelectProduct" value="true"/>
+  <!--TIZ - Systems Thermal Library-->
+  <SetVariable item="CAA\win_b64\TIZ.prd" name="SelectProduct" value="true"/>
+  <!--VCC - Visual Experience Content Collection-->
+  <SetVariable item="CAA\win_b64\VCC.prd" name="SelectProduct" value="true"/>
+  <!--VUZ - Systems VeSyMA Suspensions Library-->
+  <SetVariable item="CAA\win_b64\VUZ.prd" name="SelectProduct" value="true"/>
+  <!--VWZ - Systems VeSyMA Powertrain Library-->
+  <SetVariable item="CAA\win_b64\VWZ.prd" name="SelectProduct" value="true"/>
+  <!--VEZ - Systems VeSyMA Library-->
+  <SetVariable item="CAA\win_b64\VEZ.prd" name="SelectProduct" value="true"/>
+  <!--FPZ - Systems Fluid Power Library-->
+  <SetVariable item="CAA\win_b64\FPZ.prd" name="SelectProduct" value="true"/>
+  <!--CRZ - Systems ClaRa Plus Library-->
+  <SetVariable item="CAA\win_b64\CRZ.prd" name="SelectProduct" value="true"/>
+  <!--HYZ - Systems Hydrogen Library-->
+  <SetVariable item="CAA\win_b64\HYZ.prd" name="SelectProduct" value="true"/>
+  <!--EWZ - Systems Electric Power Library-->
+  <SetVariable item="CAA\win_b64\EWZ.prd" name="SelectProduct" value="true"/>
+  <!--PMZ - Systems Pneumatic Library-->
+  <SetVariable item="CAA\win_b64\PMZ.prd" name="SelectProduct" value="true"/>
+  <!--PRZ - Systems Industrial Process Simulation Library-->
+  <SetVariable item="CAA\win_b64\PRZ.prd" name="SelectProduct" value="true"/>
+  <!--FLZ - Systems Fluid Dynamics Library-->
+  <SetVariable item="CAA\win_b64\FLZ.prd" name="SelectProduct" value="true"/>
+  <!--ELZ - Systems Electric Drives Library-->
+  <SetVariable item="CAA\win_b64\ELZ.prd" name="SelectProduct" value="true"/>
+  <!--PEZ - Systems Power Electronics Library-->
+  <SetVariable item="CAA\win_b64\PEZ.prd" name="SelectProduct" value="true"/>
+  <!--FSZ - Systems Fuel Library-->
+  <SetVariable item="CAA\win_b64\FSZ.prd" name="SelectProduct" value="true"/>
+  <!--SHZ - Systems Safety Critical Hydraulics Library-->
+  <SetVariable item="CAA\win_b64\SHZ.prd" name="SelectProduct" value="true"/>
+  <!--VXP - Product Experience Presenter-->
+  <SetVariable item="CAA\win_b64\VXP.prd" name="SelectProduct" value="true"/>
+  <!--SHL - Sheet Metal Excellence Designer-->
+  <SetVariable item="CAA\win_b64\SHL.prd" name="SelectProduct" value="true"/>
+  <!--M3K - Mechanical Excellence Designer-->
+  <SetVariable item="CAA\win_b64\M3K.prd" name="SelectProduct" value="true"/>
+  <!--M3S - Mechanical & Shape Excellence Designer-->
+  <SetVariable item="CAA\win_b64\M3S.prd" name="SelectProduct" value="true"/>
+  <!--PST - Manufacturing Engineer-->
+  <SetVariable item="CAA\win_b64\PST.prd" name="SelectProduct" value="true"/>
+  <!--PPL - Process Planner-->
+  <SetVariable item="CAA\win_b64\PPL.prd" name="SelectProduct" value="true"/>
+  <!--PPA - Fastener Process Planner-->
+  <SetVariable item="CAA\win_b64\PPA.prd" name="SelectProduct" value="true"/>
+  <!--TMA - Time Study Analyst-->
+  <SetVariable item="CAA\win_b64\TMA.prd" name="SelectProduct" value="true"/>
+  <!--SEN - Service Process Engineer-->
+  <SetVariable item="CAA\win_b64\SEN.prd" name="SelectProduct" value="true"/>
+  <!--MAE - Process Simulation Analyst-->
+  <SetVariable item="CAA\win_b64\MAE.prd" name="SelectProduct" value="true"/>
+  <!--ASE - Assembly Simulation Expert-->
+  <SetVariable item="CAA\win_b64\ASE.prd" name="SelectProduct" value="true"/>
+  <!--WKS - Work Instructions Designer-->
+  <SetVariable item="CAA\win_b64\WKS.prd" name="SelectProduct" value="true"/>
+  <!--PND - Work Plan Release Manager-->
+  <SetVariable item="CAA\win_b64\PND.prd" name="SelectProduct" value="true"/>
+  <!--MAX - Manufacturability Analyst-->
+  <SetVariable item="CAA\win_b64\MAX.prd" name="SelectProduct" value="true"/>
+  <!--MAR - Process Simulation Reviewer-->
+  <SetVariable item="CAA\win_b64\MAR.prd" name="SelectProduct" value="true"/>
+  <!--MFM - Heavy Industry Assembly Planner-->
+  <SetVariable item="CAA\win_b64\MFM.prd" name="SelectProduct" value="true"/>
+  <!--PPM - Heavy Industry Process Planner-->
+  <SetVariable item="CAA\win_b64\PPM.prd" name="SelectProduct" value="true"/>
+  <!--WPM - Heavy Industry Structure Manufacturer-->
+  <SetVariable item="CAA\win_b64\WPM.prd" name="SelectProduct" value="true"/>
+  <!--MPO - Heavy Industry Fluidic Manufacturer-->
+  <SetVariable item="CAA\win_b64\MPO.prd" name="SelectProduct" value="true"/>
+  <!--PLA - Plant Layout Designer-->
+  <SetVariable item="CAA\win_b64\PLA.prd" name="SelectProduct" value="true"/>
+  <!--EQE - Shop Floor Equipment Engineer-->
+  <SetVariable item="CAA\win_b64\EQE.prd" name="SelectProduct" value="true"/>
+  <!--ESD - Shop Floor Designer-->
+  <SetVariable item="CAA\win_b64\ESD.prd" name="SelectProduct" value="true"/>
+  <!--EQS - Shop Floor Equipment Simulation Engineer-->
+  <SetVariable item="CAA\win_b64\EQS.prd" name="SelectProduct" value="true"/>
+  <!--IEN - Industrial Engineer-->
+  <SetVariable item="CAA\win_b64\IEN.prd" name="SelectProduct" value="true"/>
+  <!--DME - 3D Design for Manufacturing Engineer-->
+  <SetVariable item="CAA\win_b64\DME.prd" name="SelectProduct" value="true"/>
+  <!--DPP - Part Preparation for Manufacturing Engineer-->
+  <SetVariable item="CAA\win_b64\DPP.prd" name="SelectProduct" value="true"/>
+  <!--RTS - Robotics Engineer-->
+  <SetVariable item="CAA\win_b64\RTS.prd" name="SelectProduct" value="true"/>
+  <!--ROL - Robotics Offline Programmer-->
+  <SetVariable item="CAA\win_b64\ROL.prd" name="SelectProduct" value="true"/>
+  <!--RSE - Robotics Spot Engineer-->
+  <SetVariable item="CAA\win_b64\RSE.prd" name="SelectProduct" value="true"/>
+  <!--RAE - Robotics Arc Engineer-->
+  <SetVariable item="CAA\win_b64\RAE.prd" name="SelectProduct" value="true"/>
+  <!--RSF - Robotics Surface Engineer-->
+  <SetVariable item="CAA\win_b64\RSF.prd" name="SelectProduct" value="true"/>
+  <!--ROS - Robotics Optimization Expert-->
+  <SetVariable item="CAA\win_b64\ROS.prd" name="SelectProduct" value="true"/>
+  <!--RCV - Virtual Commissioning Expert-->
+  <SetVariable item="CAA\win_b64\RCV.prd" name="SelectProduct" value="true"/>
+  <!--NPM - NC Prismatic Programmer-->
+  <SetVariable item="CAA\win_b64\NPM.prd" name="SelectProduct" value="true"/>
+  <!--NMG - NC Milling Machining Programmer-->
+  <SetVariable item="CAA\win_b64\NMG.prd" name="SelectProduct" value="true"/>
+  <!--NPT - NC Prismatic & Turning Programmer-->
+  <SetVariable item="CAA\win_b64\NPT.prd" name="SelectProduct" value="true"/>
+  <!--NMX - NC Multi-Axis Milling Programmer-->
+  <SetVariable item="CAA\win_b64\NMX.prd" name="SelectProduct" value="true"/>
+  <!--NMT - NC Multi-Axis Milling & Turning Programmer-->
+  <SetVariable item="CAA\win_b64\NMT.prd" name="SelectProduct" value="true"/>
+  <!--NMV - NC Machine Code Validation Specialist-->
+  <SetVariable item="CAA\win_b64\NMV.prd" name="SelectProduct" value="true"/>
+  <!--NDR - Drill & Fill Engineer-->
+  <SetVariable item="CAA\win_b64\NDR.prd" name="SelectProduct" value="true"/>
+  <!--NTT - Cutting Tool Technologist-->
+  <SetVariable item="CAA\win_b64\NTT.prd" name="SelectProduct" value="true"/>
+  <!--AMP - Powder Bed Programmer-->
+  <SetVariable item="CAA\win_b64\AMP.prd" name="SelectProduct" value="true"/>
+  <!--MNP - Material Deposition Programmer-->
+  <SetVariable item="CAA\win_b64\MNP.prd" name="SelectProduct" value="true"/>
+  <!--DCC - Distortion Checker for Additive Manufacturing-->
+  <SetVariable item="CAA\win_b64\DCC.prd" name="SelectProduct" value="true"/>
+  <!--EMA - Ergonomist-->
+  <SetVariable item="CAA\win_b64\EMA.prd" name="SelectProduct" value="true"/>
+  <!--EEA - Ergonomics Specialist-->
+  <SetVariable item="CAA\win_b64\EEA.prd" name="SelectProduct" value="true"/>
+  <!--EWK - Work Safety Engineer-->
+  <SetVariable item="CAA\win_b64\EWK.prd" name="SelectProduct" value="true"/>
+  <!--EWD - Ergonomic Workplace Designer-->
+  <SetVariable item="CAA\win_b64\EWD.prd" name="SelectProduct" value="true"/>
+  <!--DER - Design Reviewer-->
+  <SetVariable item="CAA\win_b64\DER.prd" name="SelectProduct" value="true"/>
+  <!--DEY - Design Review Manager-->
+  <SetVariable item="CAA\win_b64\DEY.prd" name="SelectProduct" value="true"/>
+  <!--VOO - Volume Computation-->
+  <SetVariable item="CAA\win_b64\VOO.prd" name="SelectProduct" value="true"/>
+  <!--FOG - Converter for Surpac-->
+  <SetVariable item="CAA\win_b64\FOG.prd" name="SelectProduct" value="true"/>
+  <!--MOC - Converter for OMF-->
+  <SetVariable item="CAA\win_b64\MOC.prd" name="SelectProduct" value="true"/>
+  <!--FIC - Converter for ICEM Surf-->
+  <SetVariable item="CAA\win_b64\FIC.prd" name="SelectProduct" value="true"/>
+  <!--FOA - Converter for ACIS-->
+  <SetVariable item="CAA\win_b64\FOA.prd" name="SelectProduct" value="true"/>
+  <!--FOB - Converter for FBX-->
+  <SetVariable item="CAA\win_b64\FOB.prd" name="SelectProduct" value="true"/>
+  <!--FOC - Converter for AutoCAD-->
+  <SetVariable item="CAA\win_b64\FOC.prd" name="SelectProduct" value="true"/>
+  <!--FOD - Converter for Civil3D-->
+  <SetVariable item="CAA\win_b64\FOD.prd" name="SelectProduct" value="true"/>
+  <!--FOE - Converter for Solid Edge-->
+  <SetVariable item="CAA\win_b64\FOE.prd" name="SelectProduct" value="true"/>
+  <!--FOF - Converter for IFC-->
+  <SetVariable item="CAA\win_b64\FOF.prd" name="SelectProduct" value="true"/>
+  <!--FOH - Converter for Rhinoceros-->
+  <SetVariable item="CAA\win_b64\FOH.prd" name="SelectProduct" value="true"/>
+  <!--FOI - Converter for Inventor-->
+  <SetVariable item="CAA\win_b64\FOI.prd" name="SelectProduct" value="true"/>
+  <!--FOJ - Converter for JT-->
+  <SetVariable item="CAA\win_b64\FOJ.prd" name="SelectProduct" value="true"/>
+  <!--FOL - Converter for COLLADA-->
+  <SetVariable item="CAA\win_b64\FOL.prd" name="SelectProduct" value="true"/>
+  <!--FOM - Converter for MicroStation-->
+  <SetVariable item="CAA\win_b64\FOM.prd" name="SelectProduct" value="true"/>
+  <!--FON - Converter for NX-->
+  <SetVariable item="CAA\win_b64\FON.prd" name="SelectProduct" value="true"/>
+  <!--FOO - Converter for OBJ-->
+  <SetVariable item="CAA\win_b64\FOO.prd" name="SelectProduct" value="true"/>
+  <!--FOP - Converter for Creo Parametric and Pro/ENGINEER-->
+  <SetVariable item="CAA\win_b64\FOP.prd" name="SelectProduct" value="true"/>
+  <!--FOR - Converter for Parasolid-->
+  <SetVariable item="CAA\win_b64\FOR.prd" name="SelectProduct" value="true"/>
+  <!--FOV - Converter for Revit-->
+  <SetVariable item="CAA\win_b64\FOV.prd" name="SelectProduct" value="true"/>
+  <!--FOX - Converter for XMpLant-->
+  <SetVariable item="CAA\win_b64\FOX.prd" name="SelectProduct" value="true"/>
+  <!--FOY - Converter for CityGML-->
+  <SetVariable item="CAA\win_b64\FOY.prd" name="SelectProduct" value="true"/>
+  <!--STS - Converter for STEP Multidiscipline-->
+  <SetVariable item="CAA\win_b64\STS.prd" name="SelectProduct" value="true"/>
+  <!--VIC - Collocation Data Exchange-->
+  <SetVariable item="CAA\win_b64\VIC.prd" name="SelectProduct" value="true"/>
+  <!--SMU - Mechanical Analyst-->
+  <SetVariable item="CAA\win_b64\SMU.prd" name="SelectProduct" value="true"/>
+  <!--SLD - Structural Vibration Analyst-->
+  <SetVariable item="CAA\win_b64\SLD.prd" name="SelectProduct" value="true"/>
+  <!--SAS - Noise & Vibration Analyst-->
+  <SetVariable item="CAA\win_b64\SAS.prd" name="SelectProduct" value="true"/>
+  <!--SFM - Finite Element Modeling Engineer-->
+  <SetVariable item="CAA\win_b64\SFM.prd" name="SelectProduct" value="true"/>
+  <!--SRA - Simulation Results Analyst-->
+  <SetVariable item="CAA\win_b64\SRA.prd" name="SelectProduct" value="true"/>
+  <!--SFA - Steel Structure Engineer-->
+  <SetVariable item="CAA\win_b64\SFA.prd" name="SelectProduct" value="true"/>
+  <!--LHM - Living Heart Human Model Content-->
+  <SetVariable item="CAA\win_b64\LHM.prd" name="SelectProduct" value="true"/>
+  <!--SML - Simulation Geometry Modeler-->
+  <SetVariable item="CAA\win_b64\SML.prd" name="SelectProduct" value="true"/>
+  <!--SCI - Composites Simulation Engineer-->
+  <SetVariable item="CAA\win_b64\SCI.prd" name="SelectProduct" value="true"/>
+  <!--SMA - Assembly Modeling Engineer-->
+  <SetVariable item="CAA\win_b64\SMA.prd" name="SelectProduct" value="true"/>
+  <!--IME - Plastic Injection Engineer-->
+  <SetVariable item="CAA\win_b64\IME.prd" name="SelectProduct" value="true"/>
+  <!--DRD - Structural Professional Engineer-->
+  <SetVariable item="CAA\win_b64\DRD.prd" name="SelectProduct" value="true"/>
+  <!--MDS - Structural Simulation Designer-->
+  <SetVariable item="CAA\win_b64\MDS.prd" name="SelectProduct" value="true"/>
+  <!--FMK - Fluid Dynamics Engineer-->
+  <SetVariable item="CAA\win_b64\FMK.prd" name="SelectProduct" value="true"/>
+  <!--AMA - Additive Manufacturing Analyst-->
+  <SetVariable item="CAA\win_b64\AMA.prd" name="SelectProduct" value="true"/>
+  <!--MDA - Additive Manufacturing Researcher-->
+  <SetVariable item="CAA\win_b64\MDA.prd" name="SelectProduct" value="true"/>
+  <!--FGA - Durability Engineer-->
+  <SetVariable item="CAA\win_b64\FGA.prd" name="SelectProduct" value="true"/>
+  <!--MUA - Multisolver Analyst-->
+  <SetVariable item="CAA\win_b64\MUA.prd" name="SelectProduct" value="true"/>
+  <!--NAX - Converter for Nastran-->
+  <SetVariable item="CAA\win_b64\NAX.prd" name="SelectProduct" value="true"/>
+  <!--OPZ - Structural Optimization Engineer-->
+  <SetVariable item="CAA\win_b64\OPZ.prd" name="SelectProduct" value="true"/>
+  <!--MCO - Multidiscipline Performance Engineer-->
+  <SetVariable item="CAA\win_b64\MCO.prd" name="SelectProduct" value="true"/>
+  <!--RBM - Simulation Scripting-->
+  <SetVariable item="CAA\win_b64\RBM.prd" name="SelectProduct" value="true"/>
+  <!--MAS - Materials Calibration Specialist-->
+  <SetVariable item="CAA\win_b64\MAS.prd" name="SelectProduct" value="true"/>
+  <!--GMS - Generative Modeling Specialist-->
+  <SetVariable item="CAA\win_b64\GMS.prd" name="SelectProduct" value="true"/>
+  <!--SRD - Structural Designer-->
+  <SetVariable item="CAA\win_b64\SRD.prd" name="SelectProduct" value="true"/>
+  <!--SLL - Structural Engineer-->
+  <SetVariable item="CAA\win_b64\SLL.prd" name="SelectProduct" value="true"/>
+  <!--SSU - Structural Mechanics Engineer-->
+  <SetVariable item="CAA\win_b64\SSU.prd" name="SelectProduct" value="true"/>
+  <!--KMS - Motion Analyst-->
+  <SetVariable item="CAA\win_b64\KMS.prd" name="SelectProduct" value="true"/>
+  <!--AEM - Antenna Placement EM Validation-->
+  <SetVariable item="CAA\win_b64\AEM.prd" name="SelectProduct" value="true"/>
+  <!--CSV - Collaborative Industry Innovator Extended-->
+  <SetVariable item="CAA\win_b64\VCS.prd" name="SelectProduct" value="true"/>
+  <!--3DExperience Platform Native Apps-->
+  <SetVariable item="CAA\win_b64\NVF_RP.prd" name="SelectProduct" value="true"/>
+  <!--EXH - Exchanges Manager Extension-->
+  <SetVariable item="CAA\win_b64\EXH_RP.prd" name="SelectProduct" value="true"/>
+  <!--MUX - Engineering Adapter for X-PDM Extended-->
+  <SetVariable item="CAA\win_b64\MUX_RP.prd" name="SelectProduct" value="true"/>
+  <!--CHG - Change Management Extended-->
+  <SetVariable item="CAA\win_b64\CHG_RP.prd" name="SelectProduct" value="true"/>
+  <!--Optional Installation - Exchanges Management-->
+  <SetVariable item="CAA\win_b64\E95.prd" name="SelectProduct" value="true"/>
+  <!--Optional Installation - Industry Specific Enabler for Data Conversion-->
+  <SetVariable item="CAA\win_b64\CNVISDC_RP.prd" name="SelectProduct" value="true"/>
+  <!--XCD - 3D Component Designer for PLM Services Extension - Import from DS Legacy Systems-->
+  <SetVariable item="CAA\win_b64\ENOIXPV_RP.prd" name="SelectProduct" value="true"/>
+  <!--SIMULIA App Enabler Extended-->
+  <SetVariable item="CAA\win_b64\LS8_RP.prd" name="SelectProduct" value="true"/>
+  <!--PDE - Product Engineer Extended-->
+  <SetVariable item="CAA\win_b64\PDE_RP.prd" name="SelectProduct" value="true"/>
+  <!--PPE - X-CAD and Product Engineer for Mid-Market Extension-->
+  <SetVariable item="CAA\win_b64\PPE_RP.prd" name="SelectProduct" value="true"/>
+  <!--CFG - Configuration Management Extended-->
+  <SetVariable item="CAA\win_b64\CFG_RP.prd" name="SelectProduct" value="true"/>
+  <!--TXO - Customization and Specialization Extended-->
+  <SetVariable item="CAA\win_b64\TXO_RP.prd" name="SelectProduct" value="true"/>
+  <!--S1X - Preferred Part Consumer-->
+  <SetVariable item="CAA\win_b64\S1X_RP.prd" name="SelectProduct" value="true"/>
+  <!--SPI - Simulation Process & Optimization Extended-->
+  <SetVariable item="CAA\win_b64\SPI_RP.prd" name="SelectProduct" value="true"/>
+  <!--SEI - Simulation Collaborator Extended-->
+  <SetVariable item="CAA\win_b64\SEI_RP.prd" name="SelectProduct" value="true"/>
+  <!--MDO - Multidisciplinary Optimization Engineer Extended-->
+  <SetVariable item="CAA\win_b64\MDO_RP.prd" name="SelectProduct" value="true"/>
+  <!--SPF - Simulation Process Engineer Extended-->
+  <SetVariable item="CAA\win_b64\SPF_RP.prd" name="SelectProduct" value="true"/>
+  <!--CDF - Composites Engineer-->
+  <SetVariable item="CAA\win_b64\CDF.prd" name="SelectProduct" value="true"/>
+  <!--GDF - Flow Driven Generative Designer-->
+  <SetVariable item="CAA\win_b64\GDF.prd" name="SelectProduct" value="true"/>
+  <!--AMR - Additive Manufacturing Engineer-->
+  <SetVariable item="CAA\win_b64\AMR.prd" name="SelectProduct" value="true"/>
+  <SetVariable name="FinishPanel"/>
+</UserIntentions>
