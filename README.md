@@ -3,7 +3,9 @@
 
 #文件结构#
 
-请参考文件夹  screenshot\"date".png 图片。
+请参考文件夹  screenshot\"2021-02-09_00-09-36".png 图片。
+
+screenshot/2021-02-09_00-09-36.png
 
 #按照指导#
 
