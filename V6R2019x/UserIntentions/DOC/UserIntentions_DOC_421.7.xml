@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserIntentions mediaName="DOC\English\GA_DOC_INT.media" mediaVersion="421.7">
+  <SetVariable name="DSYWelcomePanel"/>
+  <SetVariable name="TARGET_PATH" value="C:\Program Files\Dassault Systemes\B421doc"/>
+  <!--DEG - Connector for Solid Edge-->
+  <SetVariable item="DOC\English\DEG.prd" name="SelectProduct" value="true"/>
+  <!--DEX - Connector for Mentor Graphics Expedition Enterprise-->
+  <SetVariable item="DOC\English\DEX.prd" name="SelectProduct" value="true"/>
+  <!--DEZ - Connector for Zuken CR-5000-->
+  <SetVariable item="DOC\English\DEZ.prd" name="SelectProduct" value="true"/>
+  <!--A2V - AutoVue 2D Viewer-->
+  <SetVariable item="DOC\English\A2V.prd" name="SelectProduct" value="true"/>
+  <!--A3V - AutoVue 3D Viewer-->
+  <SetVariable item="DOC\English\A3V.prd" name="SelectProduct" value="true"/>
+  <!--XAR - Marketing Experience Artist-->
+  <SetVariable item="DOC\English\XAR.prd" name="SelectProduct" value="true"/>
+  <!--XCA - Marketing Content Artist-->
+  <SetVariable item="DOC\English\XCA.prd" name="SelectProduct" value="true"/>
+  <!--RDS - Marketing Media Producer-->
+  <SetVariable item="DOC\English\RDS.prd" name="SelectProduct" value="true"/>
+  <!--CHA - Marketing Content Animator-->
+  <SetVariable item="DOC\English\CHA.prd" name="SelectProduct" value="true"/>
+  <!--VRS - Marketing Experience Scripter-->
+  <SetVariable item="DOC\English\VRS.prd" name="SelectProduct" value="true"/>
+  <!--EXV - Marketing Experience Reviewer-->
+  <SetVariable item="DOC\English\EXV.prd" name="SelectProduct" value="true"/>
+  <!--PPO - Marketing Model Processor-->
+  <SetVariable item="DOC\English\PPO.prd" name="SelectProduct" value="true"/>
+  <!--BLG - Therapeutics Efficacy Modeler-->
+  <SetVariable item="DOC\English\BLG.prd" name="SelectProduct" value="true"/>
+  <!--BXP - Therapeutics Knowledge Scientist-->
+  <SetVariable item="DOC\English\BXP.prd" name="SelectProduct" value="true"/>
+  <!--ACG - Accommodation Designer-->
+  <SetVariable item="DOC\English\ACG.prd" name="SelectProduct" value="true"/>
+  <!--ADL - Architectural Detail Designer-->
+  <SetVariable item="DOC\English\ADL.prd" name="SelectProduct" value="true"/>
+  <!--BDG - Concept Building Designer-->
+  <SetVariable item="DOC\English\BDG.prd" name="SelectProduct" value="true"/>
+  <!--BIM - Building and Civil Coordinator-->
+  <SetVariable item="DOC\English\BIM.prd" name="SelectProduct" value="true"/>
+  <!--BWE - Body In White Designer-->
+  <SetVariable item="DOC\English\BWE.prd" name="SelectProduct" value="true"/>
+  <!--CBA - Composites Braiding Designer-->
+  <SetVariable item="DOC\English\CBA.prd" name="SelectProduct" value="true"/>
+  <!--CBF - Rigid Flex Circuit Board Designer-->
+  <SetVariable item="DOC\English\CBF.prd" name="SelectProduct" value="true"/>
+  <!--CBR - Printed Circuit Board Designer-->
+  <SetVariable item="DOC\English\CBR.prd" name="SelectProduct" value="true"/>
+  <!--CCS - Creative Designer-->
+  <SetVariable item="DOC\English\CCS.prd" name="SelectProduct" value="true"/>
+  <!--CDD - Product Industrial Designer-->
+  <SetVariable item="DOC\English\CDD.prd" name="SelectProduct" value="true"/>
+  <!--CDE - Composites Designer-->
+  <SetVariable item="DOC\English\CDE.prd" name="SelectProduct" value="true"/>
+  <!--CDF - Composites Engineer-->
+  <SetVariable item="DOC\English\CDF.prd" name="SelectProduct" value="true"/>
+  <!--CDL - Composites Designer & Manufacturer-->
+  <SetVariable item="DOC\English\CDL.prd" name="SelectProduct" value="true"/>
+  <!--CDT - Transportation Designer-->
+  <SetVariable item="DOC\English\CDT.prd" name="SelectProduct" value="true"/>
+  <!--CFT - Converters for Construction-->
+  <SetVariable item="DOC\English\CFT.prd" name="SelectProduct" value="true"/>
+  <!--CIV - Civil Engineer-->
+  <SetVariable item="DOC\English\CIV.prd" name="SelectProduct" value="true"/>
+  <!--CLJ - Composites Laser Projection Operator-->
+  <SetVariable item="DOC\English\CLJ.prd" name="SelectProduct" value="true"/>
+  <!--CMF - Composites Manufacturer-->
+  <SetVariable item="DOC\English\CMF.prd" name="SelectProduct" value="true"/>
+  <!--CSX - Visual Experience Designer-->
+  <SetVariable item="DOC\English\CSX.prd" name="SelectProduct" value="true"/>
+  <!--CTN - Structural Package Designer-->
+  <SetVariable item="DOC\English\CTN.prd" name="SelectProduct" value="true"/>
+  <!--DCE - 3D Conceptual Designer-->
+  <SetVariable item="DOC\English\DCE.prd" name="SelectProduct" value="true"/>
+  <!--DOF - Function Driven Refinement Designer-->
+  <SetVariable item="DOC\English\DOF.prd" name="SelectProduct" value="true"/>
+  <!--DWP - Design Review & Preparation-->
+  <SetVariable item="DOC\English\DWP.prd" name="SelectProduct" value="true"/>
+  <!--DFR - Stamping Die Designer-->
+  <SetVariable item="DOC\English\DFR.prd" name="SelectProduct" value="true"/>
+  <!--EBD - Electronic Board Designer-->
+  <SetVariable item="DOC\English\EBD.prd" name="SelectProduct" value="true"/>
+  <!--ELD - Electrical Designer-->
+  <SetVariable item="DOC\English\ELD.prd" name="SelectProduct" value="true"/>
+  <!--ELG - Electrical 3D Systems Designer-->
+  <SetVariable item="DOC\English\ELG.prd" name="SelectProduct" value="true"/>
+  <!--EMP - Electrical Harness Manufacturing Engineer-->
+  <SetVariable item="DOC\English\EMP.prd" name="SelectProduct" value="true"/>
+  <!--FDE - Fasteners Designer-->
+  <SetVariable item="DOC\English\FDE.prd" name="SelectProduct" value="true"/>
+  <!--FFS - Aesthetical Shape Modeler-->
+  <SetVariable item="DOC\English\FFS.prd" name="SelectProduct" value="true"/>
+  <!--FFX - Class A Expert-->
+  <SetVariable item="DOC\English\FFX.prd" name="SelectProduct" value="true"/>
+  <!--FLG - Fluid 3D Systems Designer-->
+  <SetVariable item="DOC\English\FLG.prd" name="SelectProduct" value="true"/>
+  <!--FPM - Interior Designer-->
+  <SetVariable item="DOC\English\FPM.prd" name="SelectProduct" value="true"/>
+  <!--FPP - Plastic Mechanical Designer-->
+  <SetVariable item="DOC\English\FPP.prd" name="SelectProduct" value="true"/>
+  <!--GDE - Function Driven Generative Designer-->
+  <SetVariable item="DOC\English\GDE.prd" name="SelectProduct" value="true"/>
+  <!--IAD - Aero Surface Modeler-->
+  <SetVariable item="DOC\English\IAD.prd" name="SelectProduct" value="true"/>
+  <!--ICD - Class A Modeler-->
+  <SetVariable item="DOC\English\ICD.prd" name="SelectProduct" value="true"/>
+  <!--ICE - Immersive Collaboration Experience-->
+  <SetVariable item="DOC\English\ICE.prd" name="SelectProduct" value="true"/>
+  <!--IHD - Immersive Visual Experience-->
+  <SetVariable item="DOC\English\IHD.prd" name="SelectProduct" value="true"/>
+  <!--KAC - Design Apps Developer-->
+  <SetVariable item="DOC\English\KAC.prd" name="SelectProduct" value="true"/>
+  <!--KAX - Design Apps User-->
+  <SetVariable item="DOC\English\KAX.prd" name="SelectProduct" value="true"/>
+  <!--KDI - Template Designer-->
+  <SetVariable item="DOC\English\KDI.prd" name="SelectProduct" value="true"/>
+  <!--KHC - Quality Rules Designer-->
+  <SetVariable item="DOC\English\KHC.prd" name="SelectProduct" value="true"/>
+  <!--KPO - Product Optimization Designer-->
+  <SetVariable item="DOC\English\KPO.prd" name="SelectProduct" value="true"/>
+  <!--M3C - 3DMaster Conceptual Designer-->
+  <SetVariable item="DOC\English\M3C.prd" name="SelectProduct" value="true"/>
+  <!--M3D - 3DMaster Designer-->
+  <SetVariable item="DOC\English\M3D.prd" name="SelectProduct" value="true"/>
+  <!--M3H - Multi-Discipline 3DMaster Mechanical Designer-->
+  <SetVariable item="DOC\English\M3H.prd" name="SelectProduct" value="true"/>
+  <!--MDD - Mechanical Part Designer-->
+  <SetVariable item="DOC\English\MDD.prd" name="SelectProduct" value="true"/>
+  <!--MDG - Mechanical Designer-->
+  <SetVariable item="DOC\English\MDG.prd" name="SelectProduct" value="true"/>
+  <!--MDH - Multi-Discipline Mechanical Designer-->
+  <SetVariable item="DOC\English\MDH.prd" name="SelectProduct" value="true"/>
+  <!--MEH - Multi-Discipline Mechanical & Shape Designer-->
+  <SetVariable item="DOC\English\MEH.prd" name="SelectProduct" value="true"/>
+  <!--MDT - Mechanical Tooling Designer-->
+  <SetVariable item="DOC\English\MDT.prd" name="SelectProduct" value="true"/>
+  <!--MEF - Powertrain & Chassis Designer-->
+  <SetVariable item="DOC\English\MEF.prd" name="SelectProduct" value="true"/>
+  <!--MES - Mechanical & Shape Designer-->
+  <SetVariable item="DOC\English\MES.prd" name="SelectProduct" value="true"/>
+  <!--MGE - 3D Designer-->
+  <SetVariable item="DOC\English\MGE.prd" name="SelectProduct" value="true"/>
+  <!--MKS - Mechanism Simulation Designer-->
+  <SetVariable item="DOC\English\MKS.prd" name="SelectProduct" value="true"/>
+  <!--MLT - 3D MEP Designer-->
+  <SetVariable item="DOC\English\MLT.prd" name="SelectProduct" value="true"/>
+  <!--MOL - Mold Designer-->
+  <SetVariable item="DOC\English\MOL.prd" name="SelectProduct" value="true"/>
+  <!--MQD - Machine & Equipment Designer-->
+  <SetVariable item="DOC\English\MQD.prd" name="SelectProduct" value="true"/>
+  <!--MQS - Shaped Machine & Equipment Designer-->
+  <SetVariable item="DOC\English\MQS.prd" name="SelectProduct" value="true"/>
+  <!--MTG - Mold & Tooling Designer-->
+  <SetVariable item="DOC\English\MTG.prd" name="SelectProduct" value="true"/>
+  <!--PED - Product Enclosure Designer-->
+  <SetVariable item="DOC\English\PED.prd" name="SelectProduct" value="true"/>
+  <!--PTB - Tubing Designer-->
+  <SetVariable item="DOC\English\PTB.prd" name="SelectProduct" value="true"/>
+  <!--RPE - Virtual & Physical Prototyper-->
+  <SetVariable item="DOC\English\RPE.prd" name="SelectProduct" value="true"/>
+  <!--RWD - Cabletray 3D Systems Designer-->
+  <SetVariable item="DOC\English\RWD.prd" name="SelectProduct" value="true"/>
+  <!--SAO - Space Allocation Architect-->
+  <SetVariable item="DOC\English\SAO.prd" name="SelectProduct" value="true"/>
+  <!--SAT - Systems Architecture Designer-->
+  <SetVariable item="DOC\English\SAT.prd" name="SelectProduct" value="true"/>
+  <!--SDG - Steel Structure Designer-->
+  <SetVariable item="DOC\English\SDG.prd" name="SelectProduct" value="true"/>
+  <!--SEL - Steel and Equipment Layout Designer-->
+  <SetVariable item="DOC\English\SEL.prd" name="SelectProduct" value="true"/>
+  <!--SDY - Dynamic Systems Designer-->
+  <SetVariable item="DOC\English\SDY.prd" name="SelectProduct" value="true"/>
+  <!--SEF - Systems Schematic Designer-->
+  <SetVariable item="DOC\English\SEF.prd" name="SelectProduct" value="true"/>
+  <!--SFG - Preliminary Steel Structure Designer-->
+  <SetVariable item="DOC\English\SFG.prd" name="SelectProduct" value="true"/>
+  <!--STR - Structure Designer-->
+  <SetVariable item="DOC\English\STR.prd" name="SelectProduct" value="true"/>
+  <!--STV - Building Structures Designer-->
+  <SetVariable item="DOC\English\STV.prd" name="SelectProduct" value="true"/>
+  <!--SMH - Hydroformed SheetMetal Designer-->
+  <SetVariable item="DOC\English\SMH.prd" name="SelectProduct" value="true"/>
+  <!--SMQ - Mechatronic Systems Designer-->
+  <SetVariable item="DOC\English\SMQ.prd" name="SelectProduct" value="true"/>
+  <!--SMW - SheetMetal Designer-->
+  <SetVariable item="DOC\English\SMW.prd" name="SelectProduct" value="true"/>
+  <!--SUA - Shape Designer-->
+  <SetVariable item="DOC\English\SUA.prd" name="SelectProduct" value="true"/>
+  <!--SUF - Shape Morphing Modeler-->
+  <SetVariable item="DOC\English\SUF.prd" name="SelectProduct" value="true"/>
+  <!--SVK - Systems Multi-Views Architect-->
+  <SetVariable item="DOC\English\SVK.prd" name="SelectProduct" value="true"/>
+  <!--VSO - Reverse Shape Optimizer-->
+  <SetVariable item="DOC\English\VSO.prd" name="SelectProduct" value="true"/>
+  <!--PWZ - Systems Powertrain Library-->
+  <SetVariable item="DOC\English\PWZ.prd" name="SelectProduct" value="true"/>
+  <!--FBZ - Systems Flexible Bodies Library-->
+  <SetVariable item="DOC\English\FBZ.prd" name="SelectProduct" value="true"/>
+  <!--SEZ - Systems Smart Electric Drives Library-->
+  <SetVariable item="DOC\English\SEZ.prd" name="SelectProduct" value="true"/>
+  <!--DOY - Systems Behavior Optimization-->
+  <SetVariable item="DOC\English\DOY.prd" name="SelectProduct" value="true"/>
+  <!--XSK - Systems Simulink Export-->
+  <SetVariable item="DOC\English\XSK.prd" name="SelectProduct" value="true"/>
+  <!--XRE - Systems Real Time Execution Export-->
+  <SetVariable item="DOC\English\XRE.prd" name="SelectProduct" value="true"/>
+  <!--XFM - Systems FMU Export-->
+  <SetVariable item="DOC\English\XFM.prd" name="SelectProduct" value="true"/>
+  <!--XCS - Systems C Code Export-->
+  <SetVariable item="DOC\English\XCS.prd" name="SelectProduct" value="true"/>
+  <!--FDZ - Systems Flight Dynamics Library-->
+  <SetVariable item="DOC\English\FDZ.prd" name="SelectProduct" value="true"/>
+  <!--HCZ - Systems Human Comfort Library-->
+  <SetVariable item="DOC\English\HCZ.prd" name="SelectProduct" value="true"/>
+  <!--BTZ - Systems Battery Library-->
+  <SetVariable item="DOC\English\BTZ.prd" name="SelectProduct" value="true"/>
+  <!--EIZ - Systems VeSyMA Engines Library-->
+  <SetVariable item="DOC\English\EIZ.prd" name="SelectProduct" value="true"/>
+  <!--ETZ - Systems Electrified Power Train Library-->
+  <SetVariable item="DOC\English\ETZ.prd" name="SelectProduct" value="true"/>
+  <!--HVZ - Systems HVAC Library-->
+  <SetVariable item="DOC\English\HVZ.prd" name="SelectProduct" value="true"/>
+  <!--CLZ - Systems Cooling Library-->
+  <SetVariable item="DOC\English\CLZ.prd" name="SelectProduct" value="true"/>
+  <!--WPZ - Systems Wind Power Library-->
+  <SetVariable item="DOC\English\WPZ.prd" name="SelectProduct" value="true"/>
+  <!--DCZ - Systems Brushless DC Drives Library-->
+  <SetVariable item="DOC\English\DCZ.prd" name="SelectProduct" value="true"/>
+  <!--TIZ - Systems Thermal Library-->
+  <SetVariable item="DOC\English\TIZ.prd" name="SelectProduct" value="true"/>
+  <!--VCC - Visual Experience Content Collection-->
+  <SetVariable item="DOC\English\VCC.prd" name="SelectProduct" value="true"/>
+  <!--VUZ - Systems VeSyMA Suspensions Library-->
+  <SetVariable item="DOC\English\VUZ.prd" name="SelectProduct" value="true"/>
+  <!--VWZ - Systems VeSyMA Powertrain Library-->
+  <SetVariable item="DOC\English\VWZ.prd" name="SelectProduct" value="true"/>
+  <!--VEZ - Systems VeSyMA Library-->
+  <SetVariable item="DOC\English\VEZ.prd" name="SelectProduct" value="true"/>
+  <!--FPZ - Systems Fluid Power Library-->
+  <SetVariable item="DOC\English\FPZ.prd" name="SelectProduct" value="true"/>
+  <!--CRZ - Systems ClaRa Plus Library-->
+  <SetVariable item="DOC\English\CRZ.prd" name="SelectProduct" value="true"/>
+  <!--HYZ - Systems Hydrogen Library-->
+  <SetVariable item="DOC\English\HYZ.prd" name="SelectProduct" value="true"/>
+  <!--EWZ - Systems Electric Power Library-->
+  <SetVariable item="DOC\English\EWZ.prd" name="SelectProduct" value="true"/>
+  <!--PMZ - Systems Pneumatic Library-->
+  <SetVariable item="DOC\English\PMZ.prd" name="SelectProduct" value="true"/>
+  <!--FLZ - Systems Fluid Dynamics Library-->
+  <SetVariable item="DOC\English\FLZ.prd" name="SelectProduct" value="true"/>
+  <!--ELZ - Systems Electric Drives Library-->
+  <SetVariable item="DOC\English\ELZ.prd" name="SelectProduct" value="true"/>
+  <!--PEZ - Systems Power Electronics Library-->
+  <SetVariable item="DOC\English\PEZ.prd" name="SelectProduct" value="true"/>
+  <!--FSZ - Systems Fuel Library-->
+  <SetVariable item="DOC\English\FSZ.prd" name="SelectProduct" value="true"/>
+  <!--SHZ - Systems Safety Critical Hydraulics Library-->
+  <SetVariable item="DOC\English\SHZ.prd" name="SelectProduct" value="true"/>
+  <!--VXP - Product Experience Presenter-->
+  <SetVariable item="DOC\English\VXP.prd" name="SelectProduct" value="true"/>
+  <!--PST - Manufacturing Engineer-->
+  <SetVariable item="DOC\English\PST.prd" name="SelectProduct" value="true"/>
+  <!--PPL - Process Planner-->
+  <SetVariable item="DOC\English\PPL.prd" name="SelectProduct" value="true"/>
+  <!--PPA - Fastener Process Planner-->
+  <SetVariable item="DOC\English\PPA.prd" name="SelectProduct" value="true"/>
+  <!--TMA - Time Study Analyst-->
+  <SetVariable item="DOC\English\TMA.prd" name="SelectProduct" value="true"/>
+  <!--MAE - Process Simulation Analyst-->
+  <SetVariable item="DOC\English\MAE.prd" name="SelectProduct" value="true"/>
+  <!--ASE - Assembly Simulation Expert-->
+  <SetVariable item="DOC\English\ASE.prd" name="SelectProduct" value="true"/>
+  <!--WKS - Work Instructions Designer-->
+  <SetVariable item="DOC\English\WKS.prd" name="SelectProduct" value="true"/>
+  <!--PND - Work Plan Release Manager-->
+  <SetVariable item="DOC\English\PND.prd" name="SelectProduct" value="true"/>
+  <!--MAX - Manufacturability Analyst-->
+  <SetVariable item="DOC\English\MAX.prd" name="SelectProduct" value="true"/>
+  <!--MAR - Process Simulation Reviewer-->
+  <SetVariable item="DOC\English\MAR.prd" name="SelectProduct" value="true"/>
+  <!--MFM - Heavy Industry Assembly Planner-->
+  <SetVariable item="DOC\English\MFM.prd" name="SelectProduct" value="true"/>
+  <!--PPM - Heavy Industry Process Planner-->
+  <SetVariable item="DOC\English\PPM.prd" name="SelectProduct" value="true"/>
+  <!--WPM - Heavy Industry Structure Manufacturer-->
+  <SetVariable item="DOC\English\WPM.prd" name="SelectProduct" value="true"/>
+  <!--MPO - Heavy Industry Fluidic Manufacturer-->
+  <SetVariable item="DOC\English\MPO.prd" name="SelectProduct" value="true"/>
+  <!--PLA - Plant Layout Designer-->
+  <SetVariable item="DOC\English\PLA.prd" name="SelectProduct" value="true"/>
+  <!--EQE - Shop Floor Equipment Engineer-->
+  <SetVariable item="DOC\English\EQE.prd" name="SelectProduct" value="true"/>
+  <!--ESD - Shop Floor Designer-->
+  <SetVariable item="DOC\English\ESD.prd" name="SelectProduct" value="true"/>
+  <!--EQS - Shop Floor Equipment Simulation Engineer-->
+  <SetVariable item="DOC\English\EQS.prd" name="SelectProduct" value="true"/>
+  <!--IEN - Industrial Engineer-->
+  <SetVariable item="DOC\English\IEN.prd" name="SelectProduct" value="true"/>
+  <!--DME - 3D Design for Manufacturing Engineer-->
+  <SetVariable item="DOC\English\DME.prd" name="SelectProduct" value="true"/>
+  <!--RTS - Robotics Engineer-->
+  <SetVariable item="DOC\English\RTS.prd" name="SelectProduct" value="true"/>
+  <!--ROL - Robotics Offline Programmer-->
+  <SetVariable item="DOC\English\ROL.prd" name="SelectProduct" value="true"/>
+  <!--RSE - Robotics Spot Engineer-->
+  <SetVariable item="DOC\English\RSE.prd" name="SelectProduct" value="true"/>
+  <!--RAE - Robotics Arc Engineer-->
+  <SetVariable item="DOC\English\RAE.prd" name="SelectProduct" value="true"/>
+  <!--RSF - Robotics Surface Engineer-->
+  <SetVariable item="DOC\English\RSF.prd" name="SelectProduct" value="true"/>
+  <!--RCV - Virtual Commissioning Expert-->
+  <SetVariable item="DOC\English\RCV.prd" name="SelectProduct" value="true"/>
+  <!--NPM - NC Prismatic Programmer-->
+  <SetVariable item="DOC\English\NPM.prd" name="SelectProduct" value="true"/>
+  <!--NMG - NC Milling Machining Programmer-->
+  <SetVariable item="DOC\English\NMG.prd" name="SelectProduct" value="true"/>
+  <!--NPT - NC Prismatic & Turning Programmer-->
+  <SetVariable item="DOC\English\NPT.prd" name="SelectProduct" value="true"/>
+  <!--NMX - NC Multi-Axis Milling Programmer-->
+  <SetVariable item="DOC\English\NMX.prd" name="SelectProduct" value="true"/>
+  <!--NMT - NC Multi-Axis Milling & Turning Programmer-->
+  <SetVariable item="DOC\English\NMT.prd" name="SelectProduct" value="true"/>
+  <!--NMV - NC Machine Code Validation Specialist-->
+  <SetVariable item="DOC\English\NMV.prd" name="SelectProduct" value="true"/>
+  <!--NDR - Drill & Fill Engineer-->
+  <SetVariable item="DOC\English\NDR.prd" name="SelectProduct" value="true"/>
+  <!--NTT - Cutting Tool Technologist-->
+  <SetVariable item="DOC\English\NTT.prd" name="SelectProduct" value="true"/>
+  <!--AMR - Additive Manufacturing Engineer-->
+  <SetVariable item="DOC\English\AMR.prd" name="SelectProduct" value="true"/>
+  <!--APW - Powder Bed Programmer-->
+  <SetVariable item="DOC\English\APW.prd" name="SelectProduct" value="true"/>
+  <!--MNP - Material Deposition Programmer-->
+  <SetVariable item="DOC\English\MNP.prd" name="SelectProduct" value="true"/>
+  <!--EMA - Ergonomist-->
+  <SetVariable item="DOC\English\EMA.prd" name="SelectProduct" value="true"/>
+  <!--EEA - Ergonomics Specialist-->
+  <SetVariable item="DOC\English\EEA.prd" name="SelectProduct" value="true"/>
+  <!--EWK - Work Safety Engineer-->
+  <SetVariable item="DOC\English\EWK.prd" name="SelectProduct" value="true"/>
+  <!--EWD - Ergonomic Workplace Designer-->
+  <SetVariable item="DOC\English\EWD.prd" name="SelectProduct" value="true"/>
+  <!--ECA - Car Design Ergonomist-->
+  <SetVariable item="DOC\English\ECA.prd" name="SelectProduct" value="true"/>
+  <!--DER - Design Reviewer-->
+  <SetVariable item="DOC\English\DER.prd" name="SelectProduct" value="true"/>
+  <!--DEY - Design Review Manager-->
+  <SetVariable item="DOC\English\DEY.prd" name="SelectProduct" value="true"/>
+  <!--DWK - Engineering Workspace-->
+  <SetVariable item="DOC\English\DWK.prd" name="SelectProduct" value="true"/>
+  <!--VOO - Volume Computation-->
+  <SetVariable item="DOC\English\VOO.prd" name="SelectProduct" value="true"/>
+  <!--FOG - Converter for Surpac-->
+  <SetVariable item="DOC\English\FOG.prd" name="SelectProduct" value="true"/>
+  <!--FIC - Converter for ICEM Surf-->
+  <SetVariable item="DOC\English\FIC.prd" name="SelectProduct" value="true"/>
+  <!--FOA - Converter for ACIS-->
+  <SetVariable item="DOC\English\FOA.prd" name="SelectProduct" value="true"/>
+  <!--FOB - Converter for FBX-->
+  <SetVariable item="DOC\English\FOB.prd" name="SelectProduct" value="true"/>
+  <!--FOC - Converter for AutoCAD-->
+  <SetVariable item="DOC\English\FOC.prd" name="SelectProduct" value="true"/>
+  <!--FOD - Converter for Civil3D-->
+  <SetVariable item="DOC\English\FOD.prd" name="SelectProduct" value="true"/>
+  <!--FOE - Converter for Solid Edge-->
+  <SetVariable item="DOC\English\FOE.prd" name="SelectProduct" value="true"/>
+  <!--FOF - Converter for IFC-->
+  <SetVariable item="DOC\English\FOF.prd" name="SelectProduct" value="true"/>
+  <!--FOH - Converter for Rhinoceros-->
+  <SetVariable item="DOC\English\FOH.prd" name="SelectProduct" value="true"/>
+  <!--FOI - Converter for Inventor-->
+  <SetVariable item="DOC\English\FOI.prd" name="SelectProduct" value="true"/>
+  <!--FOJ - Converter for JT-->
+  <SetVariable item="DOC\English\FOJ.prd" name="SelectProduct" value="true"/>
+  <!--FOL - Converter for COLLADA-->
+  <SetVariable item="DOC\English\FOL.prd" name="SelectProduct" value="true"/>
+  <!--FOM - Converter for MicroStation-->
+  <SetVariable item="DOC\English\FOM.prd" name="SelectProduct" value="true"/>
+  <!--FON - Converter for NX-->
+  <SetVariable item="DOC\English\FON.prd" name="SelectProduct" value="true"/>
+  <!--FOO - Converter for OBJ-->
+  <SetVariable item="DOC\English\FOO.prd" name="SelectProduct" value="true"/>
+  <!--FOP - Converter for Creo Parametric and Pro/ENGINEER-->
+  <SetVariable item="DOC\English\FOP.prd" name="SelectProduct" value="true"/>
+  <!--FOR - Converter for Parasolid-->
+  <SetVariable item="DOC\English\FOR.prd" name="SelectProduct" value="true"/>
+  <!--FOV - Converter for Revit-->
+  <SetVariable item="DOC\English\FOV.prd" name="SelectProduct" value="true"/>
+  <!--FOX - Converter for XMpLant-->
+  <SetVariable item="DOC\English\FOX.prd" name="SelectProduct" value="true"/>
+  <!--FOY - Converter for CityGML-->
+  <SetVariable item="DOC\English\FOY.prd" name="SelectProduct" value="true"/>
+  <!--STS - Converter for STEP Multidiscipline-->
+  <SetVariable item="DOC\English\STS.prd" name="SelectProduct" value="true"/>
+  <!--VIC - Collocation Data Exchange-->
+  <SetVariable item="DOC\English\VIC.prd" name="SelectProduct" value="true"/>
+  <!--SMU - Mechanical Analyst-->
+  <SetVariable item="DOC\English\SMU.prd" name="SelectProduct" value="true"/>
+  <!--SLD - Structural Vibration Analyst-->
+  <SetVariable item="DOC\English\SLD.prd" name="SelectProduct" value="true"/>
+  <!--SVB - Strength & Vibration Engineer-->
+  <SetVariable item="DOC\English\SVB.prd" name="SelectProduct" value="true"/>
+  <!--SAS - Noise & Vibration Analyst-->
+  <SetVariable item="DOC\English\SAS.prd" name="SelectProduct" value="true"/>
+  <!--SFM - Finite Element Modeling Engineer-->
+  <SetVariable item="DOC\English\SFM.prd" name="SelectProduct" value="true"/>
+  <!--SRA - Simulation Results Analyst-->
+  <SetVariable item="DOC\English\SRA.prd" name="SelectProduct" value="true"/>
+  <!--SFA - Steel Structure Engineer-->
+  <SetVariable item="DOC\English\SFA.prd" name="SelectProduct" value="true"/>
+  <!--SML - Simulation Geometry Modeler-->
+  <SetVariable item="DOC\English\SML.prd" name="SelectProduct" value="true"/>
+  <!--SCI - Composites Simulation Engineer-->
+  <SetVariable item="DOC\English\SCI.prd" name="SelectProduct" value="true"/>
+  <!--SMA - Assembly Modeling Engineer-->
+  <SetVariable item="DOC\English\SMA.prd" name="SelectProduct" value="true"/>
+  <!--INK - Plastic Injection Part Engineer-->
+  <SetVariable item="DOC\English\INK.prd" name="SelectProduct" value="true"/>
+  <!--IME - Plastic Injection Engineer-->
+  <SetVariable item="DOC\English\IME.prd" name="SelectProduct" value="true"/>
+  <!--DRD - Structural Professional Engineer-->
+  <SetVariable item="DOC\English\DRD.prd" name="SelectProduct" value="true"/>
+  <!--MDS - Structural Simulation Designer-->
+  <SetVariable item="DOC\English\MDS.prd" name="SelectProduct" value="true"/>
+  <!--FMK - Fluid Dynamics Engineer-->
+  <SetVariable item="DOC\English\FMK.prd" name="SelectProduct" value="true"/>
+  <!--AMA - Additive Manufacturing Analyst-->
+  <SetVariable item="DOC\English\AMA.prd" name="SelectProduct" value="true"/>
+  <!--MDA - Additive Manufacturing Researcher-->
+  <SetVariable item="DOC\English\MDA.prd" name="SelectProduct" value="true"/>
+  <!--FGA - Durability Engineer-->
+  <SetVariable item="DOC\English\FGA.prd" name="SelectProduct" value="true"/>
+  <!--MUA - Multisolver Analyst-->
+  <SetVariable item="DOC\English\MUA.prd" name="SelectProduct" value="true"/>
+  <!--NAX - Converter for Nastran-->
+  <SetVariable item="DOC\English\NAX.prd" name="SelectProduct" value="true"/>
+  <!--OPZ - Structural Optimization Specialist-->
+  <SetVariable item="DOC\English\OPZ.prd" name="SelectProduct" value="true"/>
+  <!--MCO - Multidiscipline Performance Engineer-->
+  <SetVariable item="DOC\English\MCO.prd" name="SelectProduct" value="true"/>
+  <!--RBM - Simulation Scripting-->
+  <SetVariable item="DOC\English\RBM.prd" name="SelectProduct" value="true"/>
+  <!--MAS - Materials Calibration Specialist-->
+  <SetVariable item="DOC\English\MAS.prd" name="SelectProduct" value="true"/>
+  <!--GMS - Generative Modeling Specialist-->
+  <SetVariable item="DOC\English\GMS.prd" name="SelectProduct" value="true"/>
+  <!--BDP - Concept Architectural Designer-->
+  <SetVariable item="DOC\English\BDP.prd" name="SelectProduct" value="true"/>
+  <!--BDS - Concept Structural Designer-->
+  <SetVariable item="DOC\English\BDS.prd" name="SelectProduct" value="true"/>
+  <!--SEN - Service Process Engineer-->
+  <SetVariable item="DOC\English\SEN.prd" name="SelectProduct" value="false"/>
+  <!--ROS - Robotics Optimization Expert-->
+  <SetVariable item="DOC\English\ROS.prd" name="SelectProduct" value="false"/>
+  <!--AMP - Additive Manufacturing Programmer-->
+  <SetVariable item="DOC\English\AMP.prd" name="SelectProduct" value="false"/>
+  <!--Abaqus Standard Solver-->
+  <SetVariable item="DOC\English\SIMAQS_TP.prd" name="SelectProduct" value="true"/>
+  <!--Abaqus Explicit Solver-->
+  <SetVariable item="DOC\English\SIMAQX_TP.prd" name="SelectProduct" value="true"/>
+  <!--Abaqus/CFD Solver-->
+  <SetVariable item="DOC\English\SIMAQF_TP.prd" name="SelectProduct" value="true"/>
+  <!--Abaqus Precise Contact Module-->
+  <SetVariable item="DOC\English\SIMPCM_TP.prd" name="SelectProduct" value="true"/>
+  <!--Fatigue Solver-->
+  <SetVariable item="DOC\English\SIMFSF_TP.prd" name="SelectProduct" value="true"/>
+  <!--Plastics Solver-->
+  <SetVariable item="DOC\English\SIMAQP_TP.prd" name="SelectProduct" value="true"/>
+  <!--Cosimulation Services-->
+  <SetVariable item="DOC\English\SIMCSS_TP.prd" name="SelectProduct" value="true"/>
+  <!--Tosca Structure Solver-->
+  <SetVariable item="DOC\English\SIMTOSS_TP.prd" name="SelectProduct" value="true"/>
+  <!--LHM - Living Heart Human Model Content-->
+  <SetVariable item="DOC\English\LHM.prd" name="SelectProduct" value="true"/>
+  <!--SRD - Structural Designer-->
+  <SetVariable item="DOC\English\SRD.prd" name="SelectProduct" value="false"/>
+  <!--SLL - Structural Engineer-->
+  <SetVariable item="DOC\English\SLL.prd" name="SelectProduct" value="false"/>
+  <!--SSU - Structural Mechanics Engineer-->
+  <SetVariable item="DOC\English\SSU.prd" name="SelectProduct" value="false"/>
+  <!--CDW - X-CAD Designer Extended for Mid-Market-->
+  <SetVariable item="DOC\English\CDW.prd" name="SelectProduct" value="true"/>
+  <!--DEA - Connector for Cadence Allegro HDL & OrCAD-->
+  <SetVariable item="DOC\English\DEA.prd" name="SelectProduct" value="true"/>
+  <!--DED - Connector for AutoCAD-->
+  <SetVariable item="DOC\English\DED.prd" name="SelectProduct" value="true"/>
+  <!--DEI - Connector for Inventor-->
+  <SetVariable item="DOC\English\DEI.prd" name="SelectProduct" value="true"/>
+  <!--DEN - Connector for NX-->
+  <SetVariable item="DOC\English\DEN.prd" name="SelectProduct" value="true"/>
+  <!--DEP - Connector for Creo Parametric-->
+  <SetVariable item="DOC\English\DEP.prd" name="SelectProduct" value="true"/>
+  <!--DET - Connector for Altium Designer-->
+  <SetVariable item="DOC\English\DET.prd" name="SelectProduct" value="true"/>
+  <!--IFW - Business Innovation-->
+  <SetVariable item="DOC\English\IFW.prd" name="SelectProduct" value="true"/>
+  <!--CSV - Industry Innovation-->
+  <SetVariable item="DOC\English\CSV.prd" name="SelectProduct" value="true"/>
+  <!--CDR - X-CAD Designer-->
+  <SetVariable item="DOC\English\CDR.prd" name="SelectProduct" value="true"/>
+  <!--XCD - 3D Component Designer for PLM Services-->
+  <SetVariable item="DOC\English\XCD.prd" name="SelectProduct" value="true"/>
+  <!--UEN - PLM Collaboration Services for NX-->
+  <SetVariable item="DOC\English\UEN.prd" name="SelectProduct" value="true"/>
+  <!--UEP - PLM Collaboration Services for Creo Parametric-->
+  <SetVariable item="DOC\English\UEP.prd" name="SelectProduct" value="true"/>
+  <!--UET - PLM Collaboration Services for Altium Designer-->
+  <SetVariable item="DOC\English\UET.prd" name="SelectProduct" value="true"/>
+  <!--RED - 3D Validation Engineer-->
+  <SetVariable item="DOC\English\RED.prd" name="SelectProduct" value="true"/>
+  <!--NVF - Extension for Collaboration-->
+  <SetVariable item="DOC\English\NVF.prd" name="SelectProduct" value="true"/>
+  <!--EXH - Exchanges Manager-->
+  <SetVariable item="DOC\English\EXH.prd" name="SelectProduct" value="true"/>
+  <!--PAU - 3D Product Architect-->
+  <SetVariable item="DOC\English\PAU.prd" name="SelectProduct" value="true"/>
+  <!--DRU - 3D Markup Engineer-->
+  <SetVariable item="DOC\English\DRU.prd" name="SelectProduct" value="true"/>
+  <!--XEN - Product Release Engineer-->
+  <SetVariable item="DOC\English\XEN.prd" name="SelectProduct" value="true"/>
+  <!--XRS - Content Replication-->
+  <SetVariable item="DOC\English\XRS.prd" name="SelectProduct" value="true"/>
+  <!--XDE - Connector for DesignSync-->
+  <SetVariable item="DOC\English\XDE.prd" name="SelectProduct" value="true"/>
+  <!--XGI - Connector for GIT-->
+  <SetVariable item="DOC\English\XGI.prd" name="SelectProduct" value="true"/>
+  <!--XOR - X-BOM Connector for Oracle Manufacturing-->
+  <SetVariable item="DOC\English\XOR.prd" name="SelectProduct" value="true"/>
+  <!--XSA - X-BOM Connector for SAP-->
+  <SetVariable item="DOC\English\XSA.prd" name="SelectProduct" value="true"/>
+  <!--XSF - Software Engineer-->
+  <SetVariable item="DOC\English\XSF.prd" name="SelectProduct" value="true"/>
+  <!--AEX - 3DEXPERIENCE Apriso-->
+  <SetVariable item="DOC\English\AEX.prd" name="SelectProduct" value="true"/>
+  <!--Scientific Decision Maker-->
+  <SetVariable item="DOC\English\BDV.prd" name="SelectProduct" value="true"/>
+  <!--BRM - Packaging Assets Manager-->
+  <SetVariable item="DOC\English\BRM.prd" name="SelectProduct" value="true"/>
+  <!--CAP - Packaging Copy and Artwork Manager-->
+  <SetVariable item="DOC\English\CAP.prd" name="SelectProduct" value="true"/>
+  <!--CCM - Classification Manager-->
+  <SetVariable item="DOC\English\CCM.prd" name="SelectProduct" value="true"/>
+  <!--CDN - Collection Planner-->
+  <SetVariable item="DOC\English\CDN.prd" name="SelectProduct" value="true"/>
+  <!--CDY - 3D Component Designer Extended for PLM Services-->
+  <SetVariable item="DOC\English\CDY.prd" name="SelectProduct" value="true"/>
+  <!--CFG - Configuration Management-->
+  <SetVariable item="DOC\English\CFG.prd" name="SelectProduct" value="true"/>
+  <!--CHG - Change Management-->
+  <SetVariable item="DOC\English\CHG.prd" name="SelectProduct" value="true"/>
+  <!--CMM - Configuration Management for BOM-->
+  <SetVariable item="DOC\English\CMM.prd" name="SelectProduct" value="true"/>
+  <!--COD - Collection Developer-->
+  <SetVariable item="DOC\English\COD.prd" name="SelectProduct" value="true"/>
+  <!--COH - Collection Material Developer-->
+  <SetVariable item="DOC\English\COH.prd" name="SelectProduct" value="true"/>
+  <!--COL - Collection Vendor Manager-->
+  <SetVariable item="DOC\English\COL.prd" name="SelectProduct" value="true"/>
+  <!--COO - Collection Sourcing Manager-->
+  <SetVariable item="DOC\English\COO.prd" name="SelectProduct" value="true"/>
+  <!--COR - Packaging Copy and Artwork Designer-->
+  <SetVariable item="DOC\English\COR.prd" name="SelectProduct" value="true"/>
+  <!--COX - Collection Product Developer-->
+  <SetVariable item="DOC\English\COX.prd" name="SelectProduct" value="true"/>
+  <!--CTE - Contract Deliverable Manager-->
+  <SetVariable item="DOC\English\CTE.prd" name="SelectProduct" value="true"/>
+  <!--CTP - Contract-based Program Manager-->
+  <SetVariable item="DOC\English\CTP.prd" name="SelectProduct" value="true"/>
+  <!--CXC - Connector for 3DEXCITE Visual Configurator-->
+  <SetVariable item="DOC\English\CXC.prd" name="SelectProduct" value="true"/>
+  <!--DAR - Device Master Record Manager-->
+  <SetVariable item="DOC\English\DAR.prd" name="SelectProduct" value="true"/>
+  <!--DEU - Connector for Collection Adobe Illustrator-->
+  <SetVariable item="DOC\English\DEU.prd" name="SelectProduct" value="true"/>
+  <!--DPH - Connector for Collection Adobe Photoshop-->
+  <SetVariable item="DOC\English\DPH.prd" name="SelectProduct" value="true"/>
+  <!--DPJ - Project Team Member-->
+  <SetVariable item="DOC\English\DPJ.prd" name="SelectProduct" value="true"/>
+  <!--DPM - Project Manager-->
+  <SetVariable item="DOC\English\DPM.prd" name="SelectProduct" value="true"/>
+  <!--EEW - Electrical and Electronics Architect-->
+  <SetVariable item="DOC\English\EEW.prd" name="SelectProduct" value="true"/>
+  <!--FSX - Services Product Business Metrics-->
+  <SetVariable item="DOC\English\FSX.prd" name="SelectProduct" value="true"/>
+  <!--GLR - Regulatory Affairs Manager-->
+  <SetVariable item="DOC\English\GLR.prd" name="SelectProduct" value="true"/>
+  <!--GLS - Product and Specification Engineer-->
+  <SetVariable item="DOC\English\GLS.prd" name="SelectProduct" value="true"/>
+  <!--IPA - IP Controlled Access-->
+  <SetVariable item="DOC\English\IPA.prd" name="SelectProduct" value="true"/>
+  <!--IPS - IP Security Manager-->
+  <SetVariable item="DOC\English\IPS.prd" name="SelectProduct" value="true"/>
+  <!--MBO - Manufacturing BOM Manager-->
+  <SetVariable item="DOC\English\MBO.prd" name="SelectProduct" value="true"/>
+  <!--MCD - Supplier Materials Compliance Engineer-->
+  <SetVariable item="DOC\English\MCD.prd" name="SelectProduct" value="true"/>
+  <!--MCM - Materials Compliance Manager-->
+  <SetVariable item="DOC\English\MCM.prd" name="SelectProduct" value="true"/>
+  <!--MCY - Materials Compliance Analysis-->
+  <SetVariable item="DOC\English\MCY.prd" name="SelectProduct" value="true"/>
+  <!--MEC - 3D Merchandiser-->
+  <SetVariable item="DOC\English\MEC.prd" name="SelectProduct" value="true"/>
+  <!--MER - 3D Merchandising Representative-->
+  <SetVariable item="DOC\English\MER.prd" name="SelectProduct" value="true"/>
+  <!--MFN - Manufactured Items Manager-->
+  <SetVariable item="DOC\English\MFN.prd" name="SelectProduct" value="true"/>
+  <!--MGA - Manufacturing Process Manager-->
+  <SetVariable item="DOC\English\MGA.prd" name="SelectProduct" value="true"/>
+  <!--MUX - Engineering Adapter for X-PDM-->
+  <SetVariable item="DOC\English\MUX.prd" name="SelectProduct" value="true"/>
+  <!--NPR - New Part Request-->
+  <SetVariable item="DOC\English\NPR.prd" name="SelectProduct" value="true"/>
+  <!--PDA - Product Architect-->
+  <SetVariable item="DOC\English\PDA.prd" name="SelectProduct" value="true"/>
+  <!--PDE - Product Engineer-->
+  <SetVariable item="DOC\English\PDE.prd" name="SelectProduct" value="true"/>
+  <!--PDM - Product Manager-->
+  <SetVariable item="DOC\English\PDM.prd" name="SelectProduct" value="true"/>
+  <!--PPE - X-CAD and Product Engineer for Mid-Market-->
+  <SetVariable item="DOC\English\PPE.prd" name="SelectProduct" value="true"/>
+  <!--PPV - Process Plans Analyst-->
+  <SetVariable item="DOC\English\PPV.prd" name="SelectProduct" value="true"/>
+  <!--PTL - 3DLean Master-->
+  <SetVariable item="DOC\English\PTL.prd" name="SelectProduct" value="true"/>
+  <!--PTW - 3DLean Member-->
+  <SetVariable item="DOC\English\PTW.prd" name="SelectProduct" value="true"/>
+  <!--QRA - Quality Rules Administrator-->
+  <SetVariable item="DOC\English\QRA.prd" name="SelectProduct" value="true"/>
+  <!--QUC - Quality Document Manager-->
+  <SetVariable item="DOC\English\QUC.prd" name="SelectProduct" value="true"/>
+  <!--QUM - Quality Manager-->
+  <SetVariable item="DOC\English\QUM.prd" name="SelectProduct" value="true"/>
+  <!--REG - Report Generator-->
+  <SetVariable item="DOC\English\REG.prd" name="SelectProduct" value="true"/>
+  <!--REM - DHF based Project Manager-->
+  <SetVariable item="DOC\English\REM.prd" name="SelectProduct" value="true"/>
+  <!--RGT - Systems Report Generation-->
+  <SetVariable item="DOC\English\RGT.prd" name="SelectProduct" value="true"/>
+  <!--RGR - Report Producer-->
+  <SetVariable item="DOC\English\RGR.prd" name="SelectProduct" value="true"/>
+  <!--RGD - Report Template Designer-->
+  <SetVariable item="DOC\English\RGD.prd" name="SelectProduct" value="true"/>
+  <!--RYM - Regulatory Metrics-->
+  <SetVariable item="DOC\English\RYM.prd" name="SelectProduct" value="true"/>
+  <!--SAZ - Systems Architecture Specifier-->
+  <SetVariable item="DOC\English\SAZ.prd" name="SelectProduct" value="true"/>
+  <!--SDZ - Dynamic Systems Specifier-->
+  <SetVariable item="DOC\English\SDZ.prd" name="SelectProduct" value="true"/>
+  <!--SEE - Semiconductor IP Classifier-->
+  <SetVariable item="DOC\English\SEE.prd" name="SelectProduct" value="true"/>
+  <!--SMZ - Mechatronic Systems Specifier-->
+  <SetVariable item="DOC\English\SMZ.prd" name="SelectProduct" value="true"/>
+  <!--SPJ - Services Product Contributor-->
+  <SetVariable item="DOC\English\SPJ.prd" name="SelectProduct" value="true"/>
+  <!--SPM - Services Product Manager-->
+  <SetVariable item="DOC\English\SPM.prd" name="SelectProduct" value="true"/>
+  <!--SPV - Services Product Developer-->
+  <SetVariable item="DOC\English\SPV.prd" name="SelectProduct" value="true"/>
+  <!--TRA - Systems Synthesis Designer-->
+  <SetVariable item="DOC\English\TRA.prd" name="SelectProduct" value="true"/>
+  <!--TRM - Requirements Manager-->
+  <SetVariable item="DOC\English\TRM.prd" name="SelectProduct" value="true"/>
+  <!--TXO - Customization and Specialization Administrator-->
+  <SetVariable item="DOC\English\TXO.prd" name="SelectProduct" value="true"/>
+  <!--WKB - Shop Floor Operator-->
+  <SetVariable item="DOC\English\WKB.prd" name="SelectProduct" value="true"/>
+  <!--SEI - Simulation Foundation-->
+  <SetVariable item="DOC\English\SEI.prd" name="SelectProduct" value="true"/>
+  <!--SPI - Simulation Process & Optimization-->
+  <SetVariable item="DOC\English\SPI.prd" name="SelectProduct" value="true"/>
+  <!--RIW - Results Data Analyst-->
+  <SetVariable item="DOC\English\RIW.prd" name="SelectProduct" value="true"/>
+  <!--PES - Simulation Process Method Developer-->
+  <SetVariable item="DOC\English\PES.prd" name="SelectProduct" value="true"/>
+  <!--VRE - V+R Test Engineer-->
+  <SetVariable item="DOC\English\VRE.prd" name="SelectProduct" value="true"/>
+  <!--VRP - V+R Test Planner-->
+  <SetVariable item="DOC\English\VRP.prd" name="SelectProduct" value="true"/>
+  <!--SWR - Multiscale Experiment Creator-->
+  <SetVariable item="DOC\English\SWR.prd" name="SelectProduct" value="true"/>
+  <!--ASG - Simulation Asset Management-->
+  <SetVariable item="DOC\English\ASG.prd" name="SelectProduct" value="true"/>
+  <!--SXA - Structural Mechanics Analyst-->
+  <SetVariable item="DOC\English\SXA.prd" name="SelectProduct" value="true"/>
+  <!--SXP - Multibody Analyst-->
+  <SetVariable item="DOC\English\SXP.prd" name="SelectProduct" value="true"/>
+  <!--XXF - XFlow Analyst-->
+  <SetVariable item="DOC\English\XXF.prd" name="SelectProduct" value="true"/>
+  <!--SX2 - Electromagnetics Analyst-->
+  <SetVariable item="DOC\English\SX2.prd" name="SelectProduct" value="true"/>
+  <!--SXV - Performance Analyst-->
+  <SetVariable item="DOC\English\SXV.prd" name="SelectProduct" value="true"/>
+  <!--SDV - Applications Developer-->
+  <SetVariable item="DOC\English\SDV.prd" name="SelectProduct" value="true"/>
+  <!--BLD - Software and System-on-a-Chip Designer-->
+  <SetVariable item="DOC\English\BLD.prd" name="SelectProduct" value="true"/>
+  <!--ISM - Defect Engineer-->
+  <SetVariable item="DOC\English\ISM.prd" name="SelectProduct" value="true"/>
+  <!--EME - Enterprise Modeling Administrator-->
+  <SetVariable item="DOC\English\EME.prd" name="SelectProduct" value="true"/>
+  <!--SXS - External System Federation Administrator-->
+  <SetVariable item="DOC\English\SXS.prd" name="SelectProduct" value="true"/>
+  <!--GSC - Connector for Surpac-->
+  <SetVariable item="DOC\English\GSC.prd" name="SelectProduct" value="true"/>
+  <!--GMC - Connector for MineSched-->
+  <SetVariable item="DOC\English\GMC.prd" name="SelectProduct" value="true"/>
+  <!--GWC - Connector for Whittle-->
+  <SetVariable item="DOC\English\GWC.prd" name="SelectProduct" value="true"/>
+  <!--WMC - Conceptual Designer-->
+  <SetVariable item="DOC\English\WMC.prd" name="SelectProduct" value="true"/>
+  <!--WIC - Industrial Designer (Former)-->
+  <SetVariable item="DOC\English\WIC.prd" name="SelectProduct" value="true"/>
+  <!--WID - Industrial Designer-->
+  <SetVariable item="DOC\English\WID.prd" name="SelectProduct" value="true"/>
+  <!--WXE - Product Designer-->
+  <SetVariable item="DOC\English\WXE.prd" name="SelectProduct" value="true"/>
+  <!--WDR - Drafter-->
+  <SetVariable item="DOC\English\WDR.prd" name="SelectProduct" value="true"/>
+  <!--CMO - City Mobility Analyst-->
+  <SetVariable item="DOC\English\CMO.prd" name="SelectProduct" value="true"/>
+  <!--CTV - City Viewer-->
+  <SetVariable item="DOC\English\CTV.prd" name="SelectProduct" value="true"/>
+  <!--DPA - Marketing Promotion Artist-->
+  <SetVariable item="DOC\English\DPA.prd" name="SelectProduct" value="true"/>
+  <!--XPR - Marketing Presentation Artist-->
+  <SetVariable item="DOC\English\XPR.prd" name="SelectProduct" value="true"/>
+  <!--UWO - 3D Design for Academia Server-->
+  <SetVariable item="DOC\English\UWO.prd" name="SelectProduct" value="true"/>
+  <!--CXD - 3D Innovator-->
+  <SetVariable item="DOC\English\CXD.prd" name="SelectProduct" value="true"/>
+  <!--XGG - 3D Generative Innovator-->
+  <SetVariable item="DOC\English\XGG.prd" name="SelectProduct" value="true"/>
+  <!--SHP - X3D Photo-->
+  <SetVariable item="DOC\English\SHP.prd" name="SelectProduct" value="true"/>
+  <!--XPP - Project Planner-->
+  <SetVariable item="DOC\English\XPP.prd" name="SelectProduct" value="true"/>
+  <!--GML - Geology Modeler-->
+  <SetVariable item="DOC\English\GML.prd" name="SelectProduct" value="true"/>
+  <!--WXD - 3D Creator-->
+  <SetVariable item="DOC\English\WXD.prd" name="SelectProduct" value="true"/>
+  <!--XFO - 3D Sculptor-->
+  <SetVariable item="DOC\English\XFO.prd" name="SelectProduct" value="true"/>
+  <!--XMB - SOLIDWORKS xMBD-->
+  <SetVariable item="DOC\English\XMB.prd" name="SelectProduct" value="true"/>
+  <!--CCN - City Contributor-->
+  <SetVariable item="DOC\English\CCN.prd" name="SelectProduct" value="true"/>
+  <!--CYL - City Illustration Designer-->
+  <SetVariable item="DOC\English\CYL.prd" name="SelectProduct" value="true"/>
+  <!--CRM - City Referential Manager-->
+  <SetVariable item="DOC\English\CRM.prd" name="SelectProduct" value="true"/>
+  <!--FTY - Former Typing Enabler-->
+  <SetVariable item="DOC\English\FTY.prd" name="SelectProduct" value="false"/>
+  <!--UWE - 3DEXPERIENCE Essentials for Academia Server-->
+  <SetVariable item="DOC\English\UWE.prd" name="SelectProduct" value="false"/>
+  <!--UWU - Advanced Simulation for Academia Server-->
+  <SetVariable item="DOC\English\UWU.prd" name="SelectProduct" value="false"/>
+  <!--UXG - Governance and Project Management for Academia-->
+  <SetVariable item="DOC\English\UXG.prd" name="SelectProduct" value="false"/>
+  <!--UXA - Architecture and Civil Engineering for Academia-->
+  <SetVariable item="DOC\English\UXA.prd" name="SelectProduct" value="false"/>
+  <!--UXD - Design and Engineering for Academia-->
+  <SetVariable item="DOC\English\UXD.prd" name="SelectProduct" value="false"/>
+  <!--UXM - Manufacturing and Production for Academia-->
+  <SetVariable item="DOC\English\UXM.prd" name="SelectProduct" value="false"/>
+  <!--UXP - Marketing Experience for Academia-->
+  <SetVariable item="DOC\English\UXP.prd" name="SelectProduct" value="false"/>
+  <!--UXS - Systems Engineering for Academia-->
+  <SetVariable item="DOC\English\UXS.prd" name="SelectProduct" value="false"/>
+  <!--UYE - 3DEXPERIENCE Essentials for Academia Client-->
+  <SetVariable item="DOC\English\UYE.prd" name="SelectProduct" value="false"/>
+  <!--UYU - Advanced Simulation for Academia Client-->
+  <SetVariable item="DOC\English\UYU.prd" name="SelectProduct" value="false"/>
+  <!--IIU - Issue Intelligence Consumer-->
+  <SetVariable item="DOC\English\IIU.prd" name="SelectProduct" value="false"/>
+  <!--CIU - Change Intelligence Consumer-->
+  <SetVariable item="DOC\English\CIU.prd" name="SelectProduct" value="false"/>
+  <!--PIU - Project Intelligence Consumer-->
+  <SetVariable item="DOC\English\PIU.prd" name="SelectProduct" value="false"/>
+  <!--FIU - Asset Quality Analyst-->
+  <SetVariable item="DOC\English\FIU.prd" name="SelectProduct" value="false"/>
+  <!--BAM - Business Analytics Manager-->
+  <SetVariable item="DOC\English\BAM.prd" name="SelectProduct" value="false"/>
+  <!--BAD - Business Analytics Developer-->
+  <SetVariable item="DOC\English\BAD.prd" name="SelectProduct" value="false"/>
+  <!--EDM - Business Analytics Consumer-->
+  <SetVariable item="DOC\English\EDM.prd" name="SelectProduct" value="false"/>
+  <!--EDT - Business Analytics Tokens-->
+  <SetVariable item="DOC\English\EDT.prd" name="SelectProduct" value="false"/>
+  <!--ATT - Analytics Dedicated Token-->
+  <SetVariable item="DOC\English\ATT.prd" name="SelectProduct" value="false"/>
+  <!--EUS - Business Analytics Server-->
+  <SetVariable item="DOC\English\EUS.prd" name="SelectProduct" value="false"/>
+  <!--ATP - Analytics Application Server-->
+  <SetVariable item="DOC\English\ATP.prd" name="SelectProduct" value="false"/>
+  <!--CCI - Connectivity API for indexing-->
+  <SetVariable item="DOC\English\CCI.prd" name="SelectProduct" value="false"/>
+  <!--AVT - Connector for indexing Autodesk Vault-->
+  <SetVariable item="DOC\English\AVT.prd" name="SelectProduct" value="false"/>
+  <!--CDU - Connector for indexing EMC Documentum-->
+  <SetVariable item="DOC\English\CDU.prd" name="SelectProduct" value="false"/>
+  <!--IFN - Connector for indexing IBM FileNet-->
+  <SetVariable item="DOC\English\IFN.prd" name="SelectProduct" value="false"/>
+  <!--CLO - Connector for indexing Lotus Notes-->
+  <SetVariable item="DOC\English\CLO.prd" name="SelectProduct" value="false"/>
+  <!--CMI - Connector for indexing Microsoft Exchange-->
+  <SetVariable item="DOC\English\CMI.prd" name="SelectProduct" value="false"/>
+  <!--CMH - Connector for indexing Microsoft Sharepoint-->
+  <SetVariable item="DOC\English\CMH.prd" name="SelectProduct" value="false"/>
+  <!--OCS - Connector for indexing OpenText Content Server & Live Link-->
+  <SetVariable item="DOC\English\OCS.prd" name="SelectProduct" value="false"/>
+  <!--AGL - Connector for indexing Oracle Agile-->
+  <SetVariable item="DOC\English\AGL.prd" name="SelectProduct" value="false"/>
+  <!--SFS - Connector for indexing SalesForce.com-->
+  <SetVariable item="DOC\English\SFS.prd" name="SelectProduct" value="false"/>
+  <!--CWP - Connector for indexing WebSphere Portal and IBM WCM-->
+  <SetVariable item="DOC\English\CWP.prd" name="SelectProduct" value="false"/>
+  <!--KPZ - Weight and Balance Manager-->
+  <SetVariable item="DOC\English\KPZ.prd" name="SelectProduct" value="false"/>
+  <!--KPM - KPI Manager for web-->
+  <SetVariable item="DOC\English\KPM.prd" name="SelectProduct" value="false"/>
+  <!--KCW - KPI Consumer for web-->
+  <SetVariable item="DOC\English\KCW.prd" name="SelectProduct" value="false"/>
+  <!--MCL - Material Compliance Manager-->
+  <SetVariable item="DOC\English\MCL.prd" name="SelectProduct" value="false"/>
+  <!--CIO - Cost Intelligence Manager-->
+  <SetVariable item="DOC\English\CIO.prd" name="SelectProduct" value="false"/>
+  <!--BCM - Scientific Content Manager-->
+  <SetVariable item="DOC\English\BCM.prd" name="SelectProduct" value="false"/>
+  <!--BSS - Experimental Knowledge Scientist-->
+  <SetVariable item="DOC\English\BSS.prd" name="SelectProduct" value="false"/>
+  <!--BXN - Therapeutics Knowledge Scientist-->
+  <SetVariable item="DOC\English\BXN.prd" name="SelectProduct" value="false"/>
+  <!--BSM - Scientific Study Manager-->
+  <SetVariable item="DOC\English\BSM.prd" name="SelectProduct" value="false"/>
+  <!--PLP - Scientific Protocol User-->
+  <SetVariable item="DOC\English\PLP.prd" name="SelectProduct" value="false"/>
+  <!--BLS - Scientific Investigator-->
+  <SetVariable item="DOC\English\BLS.prd" name="SelectProduct" value="false"/>
+  <!--BSI - Scientific Investigator-->
+  <SetVariable item="DOC\English\BSI.prd" name="SelectProduct" value="false"/>
+  <!--B51 - Interactome Infrastructure-->
+  <SetVariable item="DOC\English\B51.prd" name="SelectProduct" value="false"/>
+  <!--SDR - Systems Designer-->
+  <SetVariable item="DOC\English\SDR.prd" name="SelectProduct" value="false"/>
+  <!--SFY - Systems Safety Analyst-->
+  <SetVariable item="DOC\English\SFY.prd" name="SelectProduct" value="false"/>
+  <!--SQA - Systems Quality Analyst-->
+  <SetVariable item="DOC\English\SQA.prd" name="SelectProduct" value="false"/>
+  <!--SEV - Virtual Systems Experience Designer-->
+  <SetVariable item="DOC\English\SEV.prd" name="SelectProduct" value="false"/>
+  <!--PEV - Systems Experience Tester-->
+  <SetVariable item="DOC\English\PEV.prd" name="SelectProduct" value="false"/>
+  <!--SA3 - Systems 3D Architecture Designer-->
+  <SetVariable item="DOC\English\SA3.prd" name="SelectProduct" value="false"/>
+  <!--XKA - Custom Knowledge API-->
+  <SetVariable item="DOC\English\XKA.prd" name="SelectProduct" value="false"/>
+  <!--KPT - Weight and Balance Engineer-->
+  <SetVariable item="DOC\English\KPT.prd" name="SelectProduct" value="false"/>
+  <!--KPD - KPI Consumer for designer-->
+  <SetVariable item="DOC\English\KPD.prd" name="SelectProduct" value="false"/>
+  <!--KPA - KPI Manager for designer-->
+  <SetVariable item="DOC\English\KPA.prd" name="SelectProduct" value="false"/>
+  <!--GDX - Function Driven Extended Design-->
+  <SetVariable item="DOC\English\GDX.prd" name="SelectProduct" value="false"/>
+  <!--CFR - Composites Forming Designer-->
+  <SetVariable item="DOC\English\CFR.prd" name="SelectProduct" value="false"/>
+  <!--IAS - ICEM Class A design-->
+  <SetVariable item="DOC\English\IAS.prd" name="SelectProduct" value="false"/>
+  <!--SXX - STEP Persistence User-->
+  <SetVariable item="DOC\English\SXX.prd" name="SelectProduct" value="false"/>
+  <!--PHM - Polyhedral Modeler-->
+  <SetVariable item="DOC\English\PHM.prd" name="SelectProduct" value="true"/>
+  <!--LYR - Layered Product Innovation Reviewer-->
+  <SetVariable item="DOC\English\LYR.prd" name="SelectProduct" value="false"/>
+  <!--LAY - Layered Products Designer-->
+  <SetVariable item="DOC\English\LAY.prd" name="SelectProduct" value="false"/>
+  <!--DIR - DStellar Live Render-->
+  <SetVariable item="DOC\English\DIR.prd" name="SelectProduct" value="false"/>
+  <!--QRU - Quality Rules Collection-->
+  <SetVariable item="DOC\English\QRU.prd" name="SelectProduct" value="false"/>
+  <!--FDP - Manufactured Part Process Planner-->
+  <SetVariable item="DOC\English\FDP.prd" name="SelectProduct" value="false"/>
+  <!--FSC - Factory Scheduler Launcher-->
+  <SetVariable item="DOC\English\FSC_RP.prd" name="SelectProduct" value="false"/>
+  <!--PQA - Process Quality Analyst-->
+  <SetVariable item="DOC\English\PQA.prd" name="SelectProduct" value="false"/>
+  <!--PTR - Production Plan Analyst-->
+  <SetVariable item="DOC\English\PTR.prd" name="SelectProduct" value="false"/>
+  <!--FSC - Factory Scheduler-->
+  <SetVariable item="DOC\English\FSC.prd" name="SelectProduct" value="false"/>
+  <!--CFA - Connector for Apriso-->
+  <SetVariable item="DOC\English\CFA.prd" name="SelectProduct" value="false"/>
+  <!--MOA - Manufactured Item Operations Analyst-->
+  <SetVariable item="DOC\English\MOA.prd" name="SelectProduct" value="false"/>
+  <!--CH4 - Engineering Reminders Management-->
+  <SetVariable item="DOC\English\CH4.prd" name="SelectProduct" value="false"/>
+  <!--CH2 - Engineering Change Action-->
+  <SetVariable item="DOC\English\CH2.prd" name="SelectProduct" value="false"/>
+  <!--CH5 - Program Change Control-->
+  <SetVariable item="DOC\English\CH5.prd" name="SelectProduct" value="false"/>
+  <!--FME - Formula Management Enabler-->
+  <SetVariable item="DOC\English\FME.prd" name="SelectProduct" value="false"/>
+  <!--RPQ - Supplier Bid Manager-->
+  <SetVariable item="DOC\English\RPQ.prd" name="SelectProduct" value="false"/>
+  <!--RSQ - RFQ Manager-->
+  <SetVariable item="DOC\English\RSQ.prd" name="SelectProduct" value="false"/>
+  <!--XSR - Specification Manager-->
+  <SetVariable item="DOC\English\XSR.prd" name="SelectProduct" value="false"/>
+  <!--DIG - Connector for IGES-->
+  <SetVariable item="DOC\English\DIG.prd" name="SelectProduct" value="false"/>
+  <!--TEP - Connector for STEP-->
+  <SetVariable item="DOC\English\TEP.prd" name="SelectProduct" value="false"/>
+  <!--XB5 - X-BOM Connector for ENOVIA VPM V5-->
+  <SetVariable item="DOC\English\XB5.prd" name="SelectProduct" value="false"/>
+  <!--UEA - PLM Collaboration Services for AutoCAD-->
+  <SetVariable item="DOC\English\UEA.prd" name="SelectProduct" value="false"/>
+  <!--UEG - PLM Collaboration Services for Solid Edge-->
+  <SetVariable item="DOC\English\UEG.prd" name="SelectProduct" value="false"/>
+  <!--UEI - PLM Collaboration Services for Inventor-->
+  <SetVariable item="DOC\English\UEI.prd" name="SelectProduct" value="false"/>
+  <!--E60 - ENOVIA CAA for E60 product-->
+  <SetVariable item="DOC\English\E60.prd" name="SelectProduct" value="false"/>
+  <!--E61 - ENOVIA CAA for E61 product-->
+  <SetVariable item="DOC\English\E61.prd" name="SelectProduct" value="false"/>
+  <!--E62 - ENOVIA CAA for E62 product-->
+  <SetVariable item="DOC\English\E62.prd" name="SelectProduct" value="false"/>
+  <!--E63 - ENOVIA CAA for E63 product-->
+  <SetVariable item="DOC\English\E63.prd" name="SelectProduct" value="false"/>
+  <!--E64 - ENOVIA CAA for E64 product-->
+  <SetVariable item="DOC\English\E64.prd" name="SelectProduct" value="false"/>
+  <!--E65 - ENOVIA CAA for E65 product-->
+  <SetVariable item="DOC\English\E65.prd" name="SelectProduct" value="false"/>
+  <!--E66 - ENOVIA CAA for E66 product-->
+  <SetVariable item="DOC\English\E66.prd" name="SelectProduct" value="false"/>
+  <!--E67 - ENOVIA CAA for E67 product-->
+  <SetVariable item="DOC\English\E67.prd" name="SelectProduct" value="false"/>
+  <!--E68 - ENOVIA CAA for E68 product-->
+  <SetVariable item="DOC\English\E68.prd" name="SelectProduct" value="false"/>
+  <!--E69 - ENOVIA CAA for E69 product-->
+  <SetVariable item="DOC\English\E69.prd" name="SelectProduct" value="false"/>
+  <!--E70 - ENOVIA CAA for E70 product-->
+  <SetVariable item="DOC\English\E70.prd" name="SelectProduct" value="true"/>
+  <!--E71 - ENOVIA CAA for E71 product-->
+  <SetVariable item="DOC\English\E71.prd" name="SelectProduct" value="false"/>
+  <!--XP6 - X-PDM Connector for ENOVIA V6-->
+  <SetVariable item="DOC\English\XP6.prd" name="SelectProduct" value="false"/>
+  <!--GEOSCON - GEOVIA Connector for Surpac - RP-->
+  <SetVariable item="DOC\English\GEOSCON_RP.prd" name="SelectProduct" value="false"/>
+  <!--GEOMCON - GEOVIA Connector for MineSched - RP-->
+  <SetVariable item="DOC\English\GEOMCON_RP.prd" name="SelectProduct" value="false"/>
+  <!--GEOWCON - GEOVIA Connector for Whittle - RP-->
+  <SetVariable item="DOC\English\GEOWCON_RP.prd" name="SelectProduct" value="false"/>
+  <SetVariable name="FinishPanel"/>
+</UserIntentions>
