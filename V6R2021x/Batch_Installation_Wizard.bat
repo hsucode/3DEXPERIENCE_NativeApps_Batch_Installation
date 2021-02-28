@@ -12,10 +12,10 @@ echo 3DEXPERIENCE_GA
 %~dp0AM_3DEXP_NativeApps.AllOS\6\3DEXPERIENCE_NativeApps\1\StartTUI.exe --silent %~dp0UserIntentions\UserIntentions_CODE.xml
 
 echo 3DEXPERIENCE_FP
-%~dp0Part_3DEXP_NativeApps.Windows64\1\Software\HF_NativeApps_3DEXP.HF15.Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\UserIntentions_CODE_423.4.xml
+%~dp0Part_3DEXP_NativeApps.Windows64\1\Software\HF_NativeApps_3DEXP.HF15.Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\UserIntentions_CODE_423.5.xml
 
 echo 3DEXPERIENCE_CAA
-%~dp0AM_3DEXP_AppDevSuite.AllOS\1\APIForNativeAppsDevelopment\Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\UserIntentions_CAA_423.4.xml
+%~dp0AM_3DEXP_AppDevSuite.AllOS\1\APIForNativeAppsDevelopment\Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\UserIntentions_CAA_423.5.xml
 
 echo 3DEXPERIENCE_CAA_FP
 %~dp0Part_3DEXP_AppDevSuite.AllOS\1\Software\HF_CAABuildTime.HF15.Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\UserIntentions_CAA_Additional_423.xml
@@ -24,5 +24,5 @@ echo 3DEXPERIENCE_CAA_RADE
 %~dp0AM_3DEXP_AppDevSuite.AllOS\1\DevelopmentToolsetForNativeApps\Windows64\1\StartTUI.exe --silent  %~dp0UserIntentions\RADE\UserIntentions_CODE.xml
 
 echo 3DEXPERIENCE_CAA_RADE_FP
-%~dp0Part_3DEXP_AppDevSuite.AllOS\1\Software\DevelopmentToolsetForNativeApps\1\StartTUI.exe --silent  %~dp0UserIntentions\RADE\UserIntentions_CODE_423.4.xml
+%~dp0Part_3DEXP_AppDevSuite.AllOS\1\Software\DevelopmentToolsetForNativeApps\1\StartTUI.exe --silent  %~dp0UserIntentions\RADE\UserIntentions_CODE_423.5.xml
 
