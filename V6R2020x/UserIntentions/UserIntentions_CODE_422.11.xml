@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserIntentions mediaName="CODE\win_b64\GA_DESKTOP_INT.media" mediaVersion="422.11">
+  <SetVariable name="BOOL_InstallCodec" value="false"/>
+  <SetVariable item="AdminToolsShortcut" name="CustomShortcuts" value="true"/>
+  <SetVariable item="CATIAMenu" name="CustomShortcuts" value="true"/>
+  <SetVariable item="CATIADesktop" name="CustomShortcuts" value="true"/>
+  <SetVariable name="BOOL_InstallVSTA" value="false"/>
+  <SetVariable item="other" name="RadioB_Legacy_provider" value="true"/>
+  <SetVariable name="DSYWelcomePanel"/>
+  <SetVariable name="TARGET_PATH" value="C:\Program Files\Dassault Systemes\B422"/>
+  <SetVariable item="LaunchExeCATIA" name="FinishPanel" value="false"/>
+</UserIntentions>

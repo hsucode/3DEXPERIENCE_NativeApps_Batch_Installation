@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserIntentions mediaName="CAA\win_b64\GA_DESKTOP_INT.media" mediaVersion="421.19">
+  <SetVariable name="DSYWelcomePanel"/>
+  <SetVariable name="TARGET_PATH" value="C:\Program Files\Dassault Systemes\B421"/>
+  <SetVariable name="FinishPanel"/>
+</UserIntentions>
